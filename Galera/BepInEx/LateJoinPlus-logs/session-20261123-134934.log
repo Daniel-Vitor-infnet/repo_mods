@@ -1,0 +1,32 @@
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named REPOLib.Modules.Upgrades
+[13:49:36.188] [Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[13:49:36.188] [Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 56 patches applied, 0 failed.
+[13:49:39.436] [Warning:Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+   (repeated 2 more times)
+[13:49:39.654] [Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[13:49:42.124] [Info   :LateJoinPlus] [Admin] Freeze covers 76 enemy scripts (87 methods)
+[13:49:42.124] [Info   :LateJoinPlus] +=============================================================+
+[13:49:42.124] [Info   :LateJoinPlus] |  _           _         ___       _      ______ _            |
+[13:49:42.124] [Info   :LateJoinPlus] | | |         | |       |_  |     (_)     | ___ \ |           |
+[13:49:42.125] [Info   :LateJoinPlus] | | |     __ _| |_ ___    | | ___  _ _ __ | |_/ / |_   _ ___  |
+[13:49:42.125] [Info   :LateJoinPlus] | | |    / _` | __/ _ \   | |/ _ \| | '_ \|  __/| | | | / __| |
+[13:49:42.125] [Info   :LateJoinPlus] | | |___| (_| | ||  __/\__/ / (_) | | | | | |   | | |_| \__ \ |
+[13:49:42.125] [Info   :LateJoinPlus] | \_____/\__,_|\__\___\____/ \___/|_|_| |_\_|   |_|\__,_|___/ |
+[13:49:42.126] [Info   :LateJoinPlus] |                                                             |
+[13:49:42.126] [Info   :LateJoinPlus] |        v1.2.2  -  join any time, no invisible rooms         |
+[13:49:42.126] [Info   :LateJoinPlus] |        Lobby Guard anti-cheat  -  by RicketyWrecked         |
+[13:49:42.126] [Info   :LateJoinPlus] +=============================================================+
+[13:49:42.127] [Info   :LateJoinPlus] LateJoinPlus 1.2.2 loaded. Late join on, debug logging off.
+[13:49:42.127] [Info   :LateJoinPlus] Timing: start-up took 996 ms.
+[13:49:42.128] [Info   :Lobby Guard] Lobby Guard part loaded (block list: 102 Steam IDs, on).
+[13:49:42.128] [Info   :LateJoinPlus] Timing: late patches took 1067 ms.
+[13:49:42.162] [Warning:Unity Log] Unable to load font face for [] font asset.
+[13:49:42.560] [Info   :LateJoinPlus] Timing: slowest frame so far 2899 ms, 3 s after start.
+[13:49:42.561] [Info   :LateJoinPlus] Timing: game memory 1766 MB of 32675 MB, 70 MB of it from mods and scripts; textures 181 MB of 11944 MB video memory.
+[13:49:42.561] [Info   :LateJoinPlus] Timing: Chinese font set-up took 10 ms and 1 MB.
+[13:49:42.561] [Info   :LateJoinPlus] Timing: the 3-second font scan took 2,2 ms (13 fonts).
+[13:49:53.508] [Info   :Unity Log] leaving photon
+[13:49:53.511] [Info   :Unity Log] Leave to Main Menu
+[13:49:53.555] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[13:49:53.556] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[13:49:53.556] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!

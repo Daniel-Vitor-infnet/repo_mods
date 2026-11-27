@@ -1,0 +1,177 @@
+[16:48:34.847] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named REPOLib.Modules.Items
+[16:48:34.847] [Info   :R.E.P.O Fixes+] [Spawned items] REPOLib not found; nothing to do.
+[16:48:34.929] [Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[16:48:34.930] [Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 55 patches applied, 0 failed.
+[16:48:36.785] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named REPOLib.Modules.Upgrades
+[16:48:37.828] [Warning:Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+   (repeated 2 more times)
+[16:48:38.018] [Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[16:48:40.133] [Info   :LateJoinPlus] [Admin] Freeze covers 76 enemy scripts (87 methods)
+[16:48:40.133] [Info   :LateJoinPlus] +=============================================================+
+[16:48:40.133] [Info   :LateJoinPlus] |  _           _         ___       _      ______ _            |
+[16:48:40.133] [Info   :LateJoinPlus] | | |         | |       |_  |     (_)     | ___ \ |           |
+[16:48:40.134] [Info   :LateJoinPlus] | | |     __ _| |_ ___    | | ___  _ _ __ | |_/ / |_   _ ___  |
+[16:48:40.134] [Info   :LateJoinPlus] | | |    / _` | __/ _ \   | |/ _ \| | '_ \|  __/| | | | / __| |
+[16:48:40.134] [Info   :LateJoinPlus] | | |___| (_| | ||  __/\__/ / (_) | | | | | |   | | |_| \__ \ |
+[16:48:40.134] [Info   :LateJoinPlus] | \_____/\__,_|\__\___\____/ \___/|_|_| |_\_|   |_|\__,_|___/ |
+[16:48:40.135] [Info   :LateJoinPlus] |                                                             |
+[16:48:40.135] [Info   :LateJoinPlus] |        v1.2.2  -  join any time, no invisible rooms         |
+[16:48:40.135] [Info   :LateJoinPlus] |        Lobby Guard anti-cheat  -  by RicketyWrecked         |
+[16:48:40.136] [Info   :LateJoinPlus] +=============================================================+
+[16:48:40.136] [Info   :LateJoinPlus] LateJoinPlus 1.2.2 loaded. Late join on, debug logging off.
+[16:48:40.136] [Info   :LateJoinPlus] Timing: start-up took 805 ms.
+[16:48:40.137] [Info   :Lobby Guard] Lobby Guard part loaded (block list: 102 Steam IDs, on).
+[16:48:40.137] [Info   :LateJoinPlus] Timing: late patches took 950 ms.
+[16:48:40.164] [Warning:Unity Log] Unable to load font face for [] font asset.
+[16:48:40.479] [Info   :LateJoinPlus] Timing: slowest frame so far 2735 ms, 3 s after start.
+[16:48:40.479] [Info   :LateJoinPlus] Timing: game memory 1777 MB of 32675 MB, 74 MB of it from mods and scripts; textures 181 MB of 11944 MB video memory.
+[16:48:40.479] [Info   :LateJoinPlus] Timing: Chinese font set-up took 9 ms and 1 MB.
+[16:48:40.480] [Info   :LateJoinPlus] Timing: the 3-second font scan took 1,9 ms (13 fonts).
+[16:48:40.679] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named REPOLib.Modules.Valuables
+[16:48:53.234] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:48:53.234] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:48:53.236] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:48:53.366] [Info   :R.E.P.O Fixes+] [Connection timeout] Photon disconnect timeout set to 30s, resends to 10; voice chat 30s.
+[16:48:53.395] [Warning:Unity Log] [2026-11-22T19:48:53] [Warning] [Recorder] [Voice(Clone)] Refreshing recording for 
+[16:48:53.526] [Info   :Lobby Guard] [Lobby Guard] Joined: 'Fagundes' (player #1, Steam 76561199869740460 https://steamcommunity.com/profiles/76561199869740460).
+[16:48:53.526] [Info   :Lobby Guard] [Lobby Guard] Joined: 'Misty' (player #2, Steam 76561198690442169 https://steamcommunity.com/profiles/76561198690442169).
+[16:48:53.712] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[16:48:53.809] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[16:49:00.115] [Info   :Repo Steam Networking] Disconnected from server!
+[16:49:00.971] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[16:49:03.814] [Info   :Repo Steam Networking] Disconnected from server!
+[16:49:08.224] [Info   :LateJoinPlus] The host did not answer within 15 s: the host is not running LateJoinPlus, so joining mid-run relies on the host's own late-join mod or the game alone.
+[16:49:09.944] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:49:09.944] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:49:09.945] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:49:10.095] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[16:49:10.303] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[16:49:10.514] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 63 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[16:49:17.443] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[16:49:18.469] [Warning:Unity Log] [EnemyNameDirectory] Unknown enemy name: 'Snatcher' → Unknown
+[16:49:37.934] [Info   :LateJoinPlus] Timing: game memory 2571 MB of 32675 MB, 94 MB of it from mods and scripts; textures 349 MB of 11944 MB video memory.
+[16:57:18.394] [Warning:Unity Log] Received RPC "FaceExpressionRPC" for viewID 106 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+[16:57:18.550] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:57:18.550] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:57:18.550] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:57:18.719] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[16:57:18.923] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[16:57:19.290] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 154 messages/s (flood limit 500); most data from one player 25 KB/s (limit 100); 0 messages dropped.
+[16:57:26.053] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[16:58:52.324] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:58:52.325] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:58:52.325] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:58:52.473] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[16:58:52.490] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 130 messages/s (flood limit 500); most data from one player 20 KB/s (limit 100); 0 messages dropped.
+[16:58:52.765] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[16:58:59.825] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[16:59:33.944] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:59:33.944] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:59:33.944] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:59:34.099] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[16:59:34.303] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[16:59:34.575] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 77 messages/s (flood limit 500); most data from one player 9 KB/s (limit 100); 0 messages dropped.
+[16:59:37.962] [Info   :LateJoinPlus] Timing: game memory 3170 MB of 32675 MB, 94 MB of it from mods and scripts; textures 385 MB of 11944 MB video memory.
+[16:59:41.443] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:10:37.593] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:10:37.593] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:10:37.594] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:10:37.739] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:10:37.983] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:10:38.552] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 153 messages/s (flood limit 500); most data from one player 31 KB/s (limit 100); 0 messages dropped.
+[17:10:45.091] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:12:08.424] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:12:08.424] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:12:08.424] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:12:08.583] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:12:08.771] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 101 messages/s (flood limit 500); most data from one player 14 KB/s (limit 100); 0 messages dropped.
+[17:12:09.003] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:12:15.919] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:12:47.245] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:12:47.245] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:12:47.245] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:12:47.394] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:12:47.623] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:12:47.813] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 82 messages/s (flood limit 500); most data from one player 9 KB/s (limit 100); 0 messages dropped.
+[17:12:54.351] [Warning:Unity Log] [EnemyNameDirectory] Unknown enemy name: 'Banger' → Unknown
+   (repeated 2 more times)
+[17:12:54.741] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:25:06.775] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:25:06.775] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:25:06.776] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:25:06.890] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 120 messages/s (flood limit 500); most data from one player 24 KB/s (limit 100); 0 messages dropped.
+[17:25:06.922] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:25:07.123] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:25:14.279] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:26:28.542] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:26:28.543] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:26:28.543] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:26:28.697] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:26:28.966] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:26:29.174] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 99 messages/s (flood limit 500); most data from one player 17 KB/s (limit 100); 0 messages dropped.
+[17:26:29.680] [Warning:Unity Log] Item 'Item Upgrade Player Sprint Speed' not found in the itemDictionary.
+[17:26:36.043] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:26:56.903] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:26:56.903] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:26:56.904] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:26:57.052] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:26:57.207] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 81 messages/s (flood limit 500); most data from one player 12 KB/s (limit 100); 0 messages dropped.
+[17:26:57.484] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:27:01.741] [Warning:Unity Log] Item 'Item Upgrade Player Sprint Speed' not found in the itemDictionary.
+[17:27:04.403] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:43:03.383] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:43:03.383] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:43:03.384] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:43:03.537] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:43:03.583] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 139 messages/s (flood limit 500); most data from one player 28 KB/s (limit 100); 0 messages dropped.
+[17:43:03.882] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:43:10.885] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:44:33.883] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 747 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Misty' Maybe GO was destroyed but RPC not cleaned up.
+[17:48:00.638] [Error  :Unity Log] Screen position out of view frustum (screen pos 0.000000, 0.000000, 265.299988) (Camera rect 0 0 1024 1024)
+   (repeated 1 more times)
+[17:48:21.464] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:48:21.464] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:48:21.465] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:48:21.624] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:48:21.983] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:48:22.431] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 137 messages/s (flood limit 500); most data from one player 21 KB/s (limit 100); 0 messages dropped.
+[17:48:22.920] [Warning:Unity Log] Item 'Item Upgrade Player Extra Jump' not found in the itemDictionary.
+[17:48:22.921] [Warning:Unity Log] Item 'Item Upgrade Player Grab Strength' not found in the itemDictionary.
+[17:48:28.971] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:49:07.222] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[17:49:07.222] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[17:49:07.223] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[17:49:07.381] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[17:49:07.474] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 96 messages/s (flood limit 500); most data from one player 13 KB/s (limit 100); 0 messages dropped.
+[17:49:07.662] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[17:49:14.721] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[17:55:08.121] [Info   :LateJoinPlus] Timing: game memory 3695 MB of 32675 MB, 108 MB of it from mods and scripts; textures 456 MB of 11944 MB video memory.
+[18:16:11.169] [Warning:Unity Log] Received RPC "UpdatePlayerTargetRPC" for viewID 965 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+   (repeated 1 more times)
+[18:16:11.422] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[18:16:11.423] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[18:16:11.423] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[18:16:11.583] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[18:16:11.845] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[18:16:12.409] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 181 messages/s (flood limit 500); most data from one player 35 KB/s (limit 100); 0 messages dropped.
+[18:16:18.931] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[18:17:09.779] [Warning:Unity Log] Received RPC "DestroyObjectRPC" for viewID 29 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+[18:17:09.779] [Warning:Unity Log] Received RPC "DestroyObjectRPC" for viewID 30 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+[18:17:09.779] [Warning:Unity Log] Received RPC "DestroyObjectRPC" for viewID 31 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+[18:17:09.779] [Warning:Unity Log] Received RPC "DestroyObjectRPC" for viewID 32 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'Fagundes' Maybe GO was destroyed but RPC not cleaned up.
+[18:17:09.860] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[18:17:09.861] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[18:17:09.861] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[18:17:10.010] [Info   :LateJoinPlus] Waited 0,1 s for Fagundes's Steam ID before loading their upgrades and name tag.
+[18:17:10.422] [Info   :LateJoinPlus] Waited 0,1 s for Misty's Steam ID before loading their upgrades and name tag.
+[18:17:10.456] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Fagundes' peaked at 154 messages/s (flood limit 500); most data from one player 23 KB/s (limit 100); 0 messages dropped.
+[18:17:17.357] [Warning:More Shop Items] Host does NOT have the mod Enabled or is using a different Version, Mod is disabled! Client running on v4.3.2.
+[18:17:20.150] [Info   :Repo Steam Networking] Disconnected from server!
+[18:17:31.492] [Info   :Unity Log] leaving photon
+[18:17:31.516] [Info   :Unity Log] Disconnected from server for reason DisconnectByClientLogic
+[18:17:31.518] [Info   :Unity Log] Leave to Main Menu
+[18:17:31.754] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[18:17:31.754] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[18:17:31.755] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[18:17:38.195] [Info   :LateJoinPlus] Timing: game memory 3127 MB of 32675 MB, 98 MB of it from mods and scripts; textures 299 MB of 11944 MB video memory.
+=== game closed normally ===

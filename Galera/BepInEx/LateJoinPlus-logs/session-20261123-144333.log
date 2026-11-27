@@ -1,0 +1,458 @@
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named REPOLib.Modules.Upgrades
+[14:43:35.033] [Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[14:43:35.033] [Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 56 patches applied, 0 failed.
+[14:43:37.933] [Warning:Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+   (repeated 2 more times)
+[14:43:38.156] [Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[14:43:40.246] [Info   :LateJoinPlus] [Admin] Freeze covers 76 enemy scripts (87 methods)
+[14:43:40.247] [Info   :LateJoinPlus] +=============================================================+
+[14:43:40.247] [Info   :LateJoinPlus] |  _           _         ___       _      ______ _            |
+[14:43:40.247] [Info   :LateJoinPlus] | | |         | |       |_  |     (_)     | ___ \ |           |
+[14:43:40.247] [Info   :LateJoinPlus] | | |     __ _| |_ ___    | | ___  _ _ __ | |_/ / |_   _ ___  |
+[14:43:40.248] [Info   :LateJoinPlus] | | |    / _` | __/ _ \   | |/ _ \| | '_ \|  __/| | | | / __| |
+[14:43:40.248] [Info   :LateJoinPlus] | | |___| (_| | ||  __/\__/ / (_) | | | | | |   | | |_| \__ \ |
+[14:43:40.248] [Info   :LateJoinPlus] | \_____/\__,_|\__\___\____/ \___/|_|_| |_\_|   |_|\__,_|___/ |
+[14:43:40.248] [Info   :LateJoinPlus] |                                                             |
+[14:43:40.248] [Info   :LateJoinPlus] |        v1.2.2  -  join any time, no invisible rooms         |
+[14:43:40.249] [Info   :LateJoinPlus] |        Lobby Guard anti-cheat  -  by RicketyWrecked         |
+[14:43:40.249] [Info   :LateJoinPlus] +=============================================================+
+[14:43:40.249] [Info   :LateJoinPlus] LateJoinPlus 1.2.2 loaded. Late join on, debug logging off.
+[14:43:40.249] [Info   :LateJoinPlus] Timing: start-up took 866 ms.
+[14:43:40.249] [Info   :Lobby Guard] Lobby Guard part loaded (block list: 102 Steam IDs, on).
+[14:43:40.250] [Info   :LateJoinPlus] Timing: late patches took 976 ms.
+[14:43:40.278] [Warning:Unity Log] Unable to load font face for [] font asset.
+[14:43:40.609] [Info   :LateJoinPlus] Timing: slowest frame so far 2784 ms, 3 s after start.
+[14:43:40.609] [Info   :LateJoinPlus] Timing: game memory 1736 MB of 32675 MB, 101 MB of it from mods and scripts; textures 181 MB of 11944 MB video memory.
+[14:43:40.610] [Info   :LateJoinPlus] Timing: Chinese font set-up took 9 ms and 1 MB.
+[14:43:40.610] [Info   :LateJoinPlus] Timing: the 3-second font scan took 1,6 ms (13 fonts).
+[14:43:50.324] [Info   :Unity Log] leaving photon
+[14:43:50.327] [Info   :Unity Log] Leave to Main Menu
+[14:43:50.368] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:43:50.368] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:43:50.368] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:44:00.761] [Info   :Unity Log] Disconnected from server for reason DisconnectByClientLogic
+[14:44:07.627] [Info   :LateJoinPlus] [Moderators] Room publishes user IDs: yes.
+[14:44:07.627] [Info   :LateJoinPlus] [Moderators] Loading screen: 1 player(s) (0 on the results screen, 0 loading, 1 ready); the players panel is up.
+[14:44:07.652] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:44:07.652] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:44:07.652] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:44:07.879] [Info   :R.E.P.O Fixes+] [Connection timeout] Photon disconnect timeout set to 30s, resends to 10; voice chat 30s.
+[14:44:07.898] [Warning:Unity Log] [2026-11-23T17:44:07] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+[14:44:08.069] [Info   :LateJoinPlus] Timing: game memory 2346 MB of 32675 MB, 113 MB of it from mods and scripts; textures 187 MB of 11944 MB video memory.
+[14:44:08.591] [Info   :Lobby Guard] [Lobby Guard] GameTools is locked in this lobby: it switches itself off for everyone else (moderators too).
+[14:44:20.994] [Info   :Lobby Guard] [Lobby Guard] Joined: 'Gabx  - TTK: Gabrielacso__' (player #2, Steam 76561198638538597 https://steamcommunity.com/profiles/76561198638538597).
+[14:44:24.980] [Info   :Lobby Guard] [Lobby Guard] Joined: 'yakuza' (player #3, Steam 76561199200400686 https://steamcommunity.com/profiles/76561199200400686).
+[14:44:51.023] [Info   :Lobby Guard] [Lobby Guard] Joiner 'Gabx  - TTK: Gabrielacso__' (player #2, Steam 76561198638538597 https://steamcommunity.com/profiles/76561198638538597), first 30 s: busiest second 3 KB in 33 messages (about 104 bytes each).
+[14:44:55.030] [Info   :Lobby Guard] [Lobby Guard] Joiner 'yakuza' (player #3, Steam 76561199200400686 https://steamcommunity.com/profiles/76561199200400686), first 30 s: busiest second 3 KB in 34 messages (about 104 bytes each).
+[14:45:51.626] [Info   :LateJoinPlus] [Run] Run starts in 5 s (twitch.tv/NoobSupremo43). Click Start again to call it off, Shift-click to start now.
+[14:45:56.637] [Info   :LateJoinPlus] [Run] Run starting (countdown ended).
+[14:45:57.625] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:45:58.438] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[14:45:59.835] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:45:59.835] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:45:59.836] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:45:59.899] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[14:45:59.918] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 36 messages/s (flood limit 500); most data from one player 3 KB/s (limit 100); 0 messages dropped.
+[14:45:59.995] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:46:00.016] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:46:22.406] [Info   :LateJoinPlus] [Run] Level built in 23 s. Slowest step: rooms, 11 s from the first player to the last, yakuza.
+[14:46:38.102] [Info   :LateJoinPlus] Timing: game memory 3227 MB of 32675 MB, 133 MB of it from mods and scripts; textures 509 MB of 11944 MB video memory.
+[14:47:31.486] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[14:47:35.008] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[14:47:35.740] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 72 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[14:47:35.783] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 72 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[14:47:37.306] [Info   :LateJoinPlus] [Admin] Host revive twitch.tv/NoobSupremo43: done - Revived twitch.tv/NoobSupremo43.
+[14:48:01.585] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[14:48:02.258] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 124 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[14:48:02.259] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 124 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[14:48:05.698] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[14:48:07.090] [Info   :LateJoinPlus] [Admin] Host revive twitch.tv/NoobSupremo43: done - Revived twitch.tv/NoobSupremo43.
+[14:48:26.079] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[14:48:27.626] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[14:48:28.299] [Info   :LateJoinPlus] [Admin] Host revive twitch.tv/NoobSupremo43: done - Revived twitch.tv/NoobSupremo43.
+[14:50:15.905] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:50:16.892] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[14:50:17.307] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:50:17.307] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:50:17.307] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:50:17.368] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[14:50:17.525] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:50:17.600] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 72 messages/s (flood limit 500); most data from one player 7 KB/s (limit 100); 0 messages dropped.
+[14:50:17.739] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:50:28.279] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Revolver/1 in slot 2.
+[14:50:31.220] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Revolver/1 out of slot 2 (1.0 m away, 0.4 m above their feet).
+[14:50:38.684] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Drone Heal/1 in slot 3.
+[14:50:51.399] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:50:52.170] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[14:50:52.174] [Warning:Unity Log] Received RPC "LandRPC" for viewID 3017 but this PhotonView does not exist! Was remote PV. Owner called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[14:50:52.407] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:50:52.408] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:50:52.408] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:50:52.475] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[14:50:52.615] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:50:52.650] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 35 messages/s (flood limit 500); most data from one player 4 KB/s (limit 100); 0 messages dropped.
+[14:50:53.055] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named RepoRPG.RunShape
+[14:50:53.120] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:51:06.860] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named RepoRPG.ValueScale
+   (repeated 1 more times)
+[14:51:15.283] [Warning:InterestingLevels] [check] level 'Level - Museum' (seed -1368934148, mod layout): 1 extraction point(s) look unreachable on the navmesh. The level stays playable; please report this with the log.
+[14:51:15.345] [Info   :LateJoinPlus] [Run] Level built in 22 s. Slowest step: rooms, 11,1 s from the first player to the last, yakuza.
+[14:51:15.366] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Drone Heal/1 is back in slot 3 (the game restoring slots).
+[14:51:25.331] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:51:35.785] [Info   :LateJoinPlus] [Slots] 2 remembered item(s) are in their slots, 20 s into this level.
+[14:52:22.818] [Info   :LateJoinPlus] [Death drop] Gabx  - TTK: Gabrielacso__ died; the host shows them holding 0 item(s).
+[14:54:24.193] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.8 m away, 1.5 m above their feet).
+[14:54:29.812] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[15:00:11.211] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.8 m away, 1.5 m above their feet).
+[15:00:12.974] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[15:00:15.433] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.6 m away, 1.1 m above their feet).
+[15:00:17.272] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[15:00:20.496] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Drone Heal/1 out of slot 3 (1.7 m away, 1.4 m above their feet).
+[15:01:11.655] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Drone Heal/1 in slot 3.
+[15:01:48.815] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 1 item(s).
+[15:01:48.967] [Info   :LateJoinPlus] [Death drop] +0,15 s, held by yakuza when they died: Rigidbody #233 2,1 m away, floor 2,29 m | state - | held by yakuza | kinematic False collisions True colliders on 2/2 | active True deactivate -123 pin 0 | view owner 1
+[15:01:49.272] [Info   :LateJoinPlus] [Slots] yakuza's Item Gun Revolver/1 was forced out of slot 1, as happens when someone dies (1.6 m away, 1.6 m above their feet).
+[15:01:49.319] [Info   :LateJoinPlus] [Death drop] +0,5 s, held by yakuza when they died: Rigidbody #233 2,3 m away, floor 1,68 m | state - | held by nobody | kinematic False collisions True colliders on 2/2 | active True deactivate -123 pin 0 | view owner 1
+[15:01:49.429] [Info   :LateJoinPlus] [Death drop] +0,15 s, dropped from a dead player's slot: Item Gun Revolver(Clone) #200 0,0 m away, floor 0,12 m | state Idle owner 3024 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin -0,01 | view owner 1
+[15:01:49.776] [Info   :LateJoinPlus] [Death drop] +0,5 s, dropped from a dead player's slot: Item Gun Revolver(Clone) #200 0,8 m away, floor 0,20 m | state Idle owner 3024 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin -0,01 | view owner 1
+[15:01:51.812] [Info   :LateJoinPlus] [Death drop] +3 s, held by yakuza when they died: Rigidbody #233 1,3 m away, floor 0,53 m | state - | held by nobody | kinematic False collisions True colliders on 2/2 | active True deactivate -123 pin 0 | view owner 1
+[15:01:52.278] [Info   :LateJoinPlus] [Death drop] +3 s, dropped from a dead player's slot: Item Gun Revolver(Clone) #200 1,4 m away, floor 0,11 m | state Idle owner 3024 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin -0,01 | view owner 1
+[15:01:56.693] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[15:01:57.190] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Drone Heal/1 was forced out of slot 3, as happens when someone dies (1.6 m away, 1.6 m above their feet).
+[15:01:57.340] [Info   :LateJoinPlus] [Death drop] +0,15 s, dropped from a dead player's slot: Item Drone Heal(Clone) #201 0,2 m away, floor 3,18 m | state Idle owner 1042 | held by nobody | kinematic False collisions True colliders on 1/1 | active True deactivate -123 pin 0 | view owner 1
+[15:01:57.692] [Info   :LateJoinPlus] [Death drop] +0,5 s, dropped from a dead player's slot: Item Drone Heal(Clone) #201 1,2 m away, floor 4,11 m | state Idle owner 1042 | held by nobody | kinematic False collisions True colliders on 1/1 | active True deactivate -123 pin 0 | view owner 1
+[15:02:00.190] [Info   :LateJoinPlus] [Death drop] An item dropped from a dead player's slot is gone (destroyed or picked up into a slot).
+[15:03:33.012] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Revolver/1 in slot 1.
+[15:03:39.251] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Revolver/1 out of slot 1 (1.8 m away, 1.6 m above their feet).
+[15:03:44.691] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Revolver/1 in slot 1.
+[15:04:03.995] [Info   :LateJoinPlus] [Death drop] Gabx  - TTK: Gabrielacso__ died; the host shows them holding 0 item(s).
+[15:04:04.509] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Gun Revolver/1 was forced out of slot 1, as happens when someone dies (0.7 m away, 0.6 m above their feet).
+[15:04:04.664] [Info   :LateJoinPlus] [Death drop] +0,15 s, dropped from a dead player's slot: Item Gun Revolver(Clone) #200 0,0 m away, floor 0,13 m | state Idle owner 2024 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin 0 | view owner 1
+[15:04:05.014] [Info   :LateJoinPlus] [Death drop] +0,5 s, dropped from a dead player's slot: Item Gun Revolver(Clone) #200 0,8 m away, floor 1,91 m | state Idle owner 2024 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin 0 | view owner 1
+[15:04:07.512] [Info   :LateJoinPlus] [Death drop] An item dropped from a dead player's slot is gone (destroyed or picked up into a slot).
+[15:04:08.601] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:04:09.504] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:04:10.319] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:04:10.319] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:04:10.319] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:04:10.368] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:04:10.494] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:04:10.994] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:04:11.144] [Info   :R.E.P.O Fixes+] [Truck items] 1 bought item(s) didn't fit the truck's spots; put them on top of spots in the truck instead of outside it: Small Health Pack (25).
+[15:04:11.260] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'yakuza' peaked at 50 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:04:27.276] [Info   :LateJoinPlus] [Run] Level built in 16 s. Slowest step: valuables, 8,5 s from the first player to the last, yakuza.
+[15:04:53.335] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 0 item(s).
+[15:05:08.753] [Info   :LateJoinPlus] [Death drop] Gabx  - TTK: Gabrielacso__ died; the host shows them holding 0 item(s).
+[15:05:21.041] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[15:05:31.581] [Warning:Unity Log] Save folder not found: C:/Users/noobsupremo/AppData/LocalLow/semiwork/REPO/saves/REPO_SAVE_2026_11_23_13_50_43
+[15:05:32.595] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:05:33.417] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:05:33.713] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:05:33.713] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:05:33.713] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:05:33.772] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:05:33.915] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:05:34.426] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 50 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:05:34.534] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:05:56.291] [Info   :LateJoinPlus] [Run] Run starts in 5 s (twitch.tv/NoobSupremo43). Click Start again to call it off, Shift-click to start now.
+[15:06:01.294] [Info   :LateJoinPlus] [Run] Run starting (countdown ended).
+[15:06:02.291] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:06:03.099] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:06:03.501] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:06:03.502] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:06:03.502] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:06:03.561] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:06:03.694] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:06:04.132] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:06:04.465] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 42 messages/s (flood limit 500); most data from one player 3 KB/s (limit 100); 0 messages dropped.
+[15:06:26.346] [Info   :LateJoinPlus] [Run] Level built in 22 s. Slowest step: rooms, 13,5 s from the first player to the last, yakuza.
+[15:08:58.353] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 0 item(s).
+[15:12:16.394] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[15:14:14.267] [Info   :LateJoinPlus] [Phone] Key P: blocked (room=True, moderation=True, admin=False, menu=False, level menu=False, typing=True).
+[15:16:03.460] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:16:04.387] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:16:04.820] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:16:04.820] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:16:04.820] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:16:04.866] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:16:04.994] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:16:05.372] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:16:05.394] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 38 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:16:32.799] [Info   :LateJoinPlus] [Run] Level built in 27 s. Slowest step: valuables, 12,1 s from the first player to the last, yakuza.
+[15:17:23.315] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 505 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:17:23.351] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 505 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[15:18:38.220] [Info   :LateJoinPlus] Timing: game memory 3856 MB of 32675 MB, 142 MB of it from mods and scripts; textures 558 MB of 11944 MB video memory.
+[15:21:47.641] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:21:48.831] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:21:49.418] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:21:49.418] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:21:49.419] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:21:49.467] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:21:49.478] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 75 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:21:49.596] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:21:50.153] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:21:57.700] [Info   :LateJoinPlus] [Run] Level built in 8 s. Slowest step: rooms, 6 s from the first player to the last, yakuza.
+[15:22:03.111] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Shotgun/1 in slot 1.
+[15:22:04.615] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:22:08.234] [Info   :LateJoinPlus] Timing: game memory 3342 MB of 32675 MB, 153 MB of it from mods and scripts; textures 516 MB of 11944 MB video memory.
+[15:22:13.213] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:22:14.033] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:22:14.200] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:22:14.200] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:22:14.200] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:22:14.247] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:22:14.373] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:22:14.505] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 36 messages/s (flood limit 500); most data from one player 4 KB/s (limit 100); 0 messages dropped.
+[15:22:14.673] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:22:34.007] [Info   :LateJoinPlus] [Run] Level built in 19 s. Slowest step: rooms, 11,5 s from the first player to the last, yakuza.
+[15:22:34.018] [Info   :LateJoinPlus] [Slots] yakuza's Item Gun Shotgun/1 is back in slot 1 (the game restoring slots).
+[15:22:34.018] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Gun Tranq/1 is back in slot 1 (the game restoring slots).
+[15:22:54.164] [Info   :LateJoinPlus] [Slots] 2 remembered item(s) are in their slots, 20 s into this level.
+[15:24:11.891] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Shotgun/1 out of slot 1 (1.7 m away, 1.3 m above their feet).
+[15:24:21.205] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.6 m above their feet).
+[15:24:21.883] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:24:33.451] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Shotgun/1 in slot 2.
+[15:24:49.331] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Shotgun/1 out of slot 2 (2.1 m away, 1.9 m above their feet).
+[15:24:51.450] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Shotgun/1 in slot 2.
+[15:31:17.410] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Shotgun/1 out of slot 2 (1.6 m away, 1.1 m above their feet).
+[15:31:21.512] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Shotgun/1 in slot 1.
+[15:36:14.353] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.5 m above their feet).
+[15:36:15.450] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:36:33.940] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[15:36:33.956] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.7 m away, 1.3 m above their feet).
+[15:36:49.313] [Info   :LateJoinPlus] [Death drop] Gabx  - TTK: Gabrielacso__ died; the host shows them holding 0 item(s).
+[15:37:18.192] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Shotgun/1 out of slot 1 (1.6 m away, 1.3 m above their feet).
+[15:37:19.693] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 1 item(s).
+[15:37:19.842] [Info   :LateJoinPlus] [Death drop] +0,15 s, held by yakuza when they died: Item Gun Shotgun(Clone) #641 1,1 m away, floor 0,02 m | state Idle owner 3066 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin 0 | view owner 1
+[15:37:20.194] [Info   :LateJoinPlus] [Death drop] +0,5 s, held by yakuza when they died: Item Gun Shotgun(Clone) #641 1,0 m away, floor 0,03 m | state Idle owner 3066 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin 0 | view owner 1
+[15:37:22.692] [Info   :LateJoinPlus] [Death drop] +3 s, held by yakuza when they died: Item Gun Shotgun(Clone) #641 0,6 m away, floor 0,04 m | state Idle owner 3066 | held by nobody | kinematic False collisions True colliders on 4/4 | active True deactivate -123 pin 0 | view owner 1
+[15:37:24.299] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:37:25.185] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:37:25.578] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:37:25.578] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:37:25.578] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:37:25.624] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:37:25.793] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:37:25.996] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'yakuza' peaked at 57 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:37:26.333] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:37:35.567] [Info   :LateJoinPlus] [Run] Level built in 9 s. Slowest step: rooms, 8 s from the first player to the last, yakuza.
+[15:37:42.439] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[15:38:06.372] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[15:38:32.196] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 0 item(s).
+[15:38:32.248] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 708 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.249] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 708 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.816] [Info   :LateJoinPlus] [Death drop] Gabx  - TTK: Gabrielacso__ died; the host shows them holding 0 item(s).
+[15:38:32.829] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.829] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.830] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.830] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.830] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.830] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.831] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.831] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.831] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.832] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.832] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.832] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.832] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.833] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.833] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.833] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.870] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.870] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.870] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.870] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.871] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.871] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.871] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.872] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.872] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:32.872] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 707 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:46.090] [Warning:Unity Log] Save folder not found: C:/Users/noobsupremo/AppData/LocalLow/semiwork/REPO/saves/REPO_SAVE_2026_11_23_13_50_43
+[15:38:47.107] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:38:47.793] [Warning:Unity Log] Received RPC "DestroyObjectRPC" for viewID 730 but this PhotonView does not exist! Was remote PV. Remote called. By: #01 'twitch.tv/NoobSupremo43' Maybe GO was destroyed but RPC not cleaned up.
+[15:38:47.921] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:38:48.073] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:38:48.073] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:38:48.073] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:38:48.130] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:38:48.143] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 85 messages/s (flood limit 500); most data from one player 8 KB/s (limit 100); 0 messages dropped.
+[15:38:48.274] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:38:48.694] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:38:54.734] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[15:38:56.683] [Info   :LateJoinPlus] [Admin] Upgrades page for you (game id ok): Health 0, Stamina 0, Speed 0, Strength 0, Range 0, Throw 0, ExtraJump 0, Launch 0, TumbleWings 0, TumbleClimb 0, CrouchRest 0, DeathHeadBattery 0, MapPlayerCount 0.
+[15:38:59.905] [Info   :LateJoinPlus] [Admin] Host money: not done - Not now: wait until the level has loaded.
+   (repeated 1 more times)
+[15:39:02.340] [Info   :LateJoinPlus] [Admin] Host levelnum: not done - Not now: wait until the level has loaded.
+[15:39:04.009] [Info   :LateJoinPlus] [Admin] Host money: not done - Not now: wait until the level has loaded.
+[15:39:04.937] [Info   :LateJoinPlus] [Admin] Host shop: not done - Not now: wait until the level has loaded.
+[15:39:07.643] [Info   :LateJoinPlus] [Admin] Host levelnum: not done - Not now: wait until the level has loaded.
+   (repeated 1 more times)
+[15:39:11.602] [Info   :LateJoinPlus] [Run] Run starts in 5 s (twitch.tv/NoobSupremo43). Click Start again to call it off, Shift-click to start now.
+[15:39:16.611] [Info   :LateJoinPlus] [Run] Run starting (countdown ended).
+[15:39:17.607] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:39:18.297] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 0 loading, 3 ready); the players panel is up.
+[15:39:18.720] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:39:18.720] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:39:18.720] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:39:18.773] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:39:18.954] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:39:19.178] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 38 messages/s (flood limit 500); most data from one player 3 KB/s (limit 100); 0 messages dropped.
+[15:39:19.533] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:39:41.376] [Info   :LateJoinPlus] [Run] Level built in 22 s. Slowest step: rooms, 13 s from the first player to the last, yakuza.
+[15:39:47.619] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[15:39:49.600] [Info   :LateJoinPlus] [Admin] Host levelnum: done - Level number set to 3, from the next level.
+[15:39:51.489] [Info   :LateJoinPlus] [Admin] Host money: done - Money set to $100K.
+[15:39:52.753] [Info   :LateJoinPlus] [Admin] Host shop: done - Going to the shop.
+[15:39:54.552] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:39:55.462] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:39:55.819] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:39:55.819] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:39:55.819] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:39:55.880] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:39:56.032] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:39:56.241] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 35 messages/s (flood limit 500); most data from one player 4 KB/s (limit 100); 0 messages dropped.
+[15:39:56.414] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:40:08.291] [Info   :LateJoinPlus] Timing: game memory 3944 MB of 32675 MB, 147 MB of it from mods and scripts; textures 568 MB of 11944 MB video memory.
+[15:40:19.488] [Info   :LateJoinPlus] [Run] Level built in 23 s. Slowest step: valuables, 11,6 s from the first player to the last, yakuza.
+[15:43:39.654] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:43:40.792] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:43:41.239] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:43:41.239] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:43:41.240] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:43:41.298] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:43:41.433] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:43:42.031] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:43:42.067] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 39 messages/s (flood limit 500); most data from one player 4 KB/s (limit 100); 0 messages dropped.
+[15:43:49.562] [Info   :LateJoinPlus] [Run] Level built in 8 s. Slowest step: rooms, 6 s from the first player to the last, yakuza.
+[15:43:52.094] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:43:54.791] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:44:01.429] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Extraction Tracker/1 in slot 2.
+[15:44:07.152] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (3 on the results screen, 0 loading, 0 ready); the players panel is up.
+[15:44:07.953] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 3 loading, 0 ready); the players panel is up.
+[15:44:08.178] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[15:44:08.179] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[15:44:08.179] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[15:44:08.247] [Info   :LateJoinPlus] [Moderators] Loading screen: 3 player(s) (0 on the results screen, 2 loading, 1 ready); the players panel is up.
+[15:44:08.316] [Info   :LateJoinPlus] Timing: game memory 3369 MB of 32675 MB, 144 MB of it from mods and scripts; textures 447 MB of 11944 MB video memory.
+[15:44:08.342] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[15:44:08.713] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[15:44:09.108] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 39 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[15:44:29.373] [Info   :LateJoinPlus] [Run] Level built in 21 s. Slowest step: rooms, 12 s from the first player to the last, yakuza.
+[15:44:29.413] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Gun Laser/1 is back in slot 1 (the game restoring slots).
+[15:44:29.413] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Gun Tranq/1 is back in slot 1 (the game restoring slots).
+[15:44:29.421] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Extraction Tracker/1 is back in slot 2 (the game restoring slots).
+[15:44:49.612] [Info   :LateJoinPlus] [Slots] 3 remembered item(s) are in their slots, 20 s into this level.
+[15:46:14.147] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.7 m away, 1.3 m above their feet).
+[15:46:15.955] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:46:50.374] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.6 m above their feet).
+[15:46:52.065] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:47:02.890] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.6 m away, 1.3 m above their feet).
+[15:47:05.092] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:47:06.050] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.5 m away, 1.2 m above their feet).
+[15:47:07.091] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:48:37.797] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.6 m above their feet).
+[15:48:38.561] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:48:39.454] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.6 m away, 1.3 m above their feet).
+[15:48:40.252] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:48:58.793] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.5 m above their feet).
+[15:48:59.553] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:49:54.413] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.9 m away, 1.7 m above their feet).
+[15:49:59.760] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:50:58.997] [Info   :LateJoinPlus] Late joiner mulhermiranhazero connected (level Level - Manor). Catching them up.
+[15:50:59.831] [Info   :Lobby Guard] [Lobby Guard] Joined: 'mulhermiranhazero' (player #4, Steam 76561198637940324 https://steamcommunity.com/profiles/76561198637940324).
+[15:51:02.001] [Info   :LateJoinPlus] Sent the setup of 10 level piece(s) once to mulhermiranhazero (without LateJoinPlus).
+[15:51:07.487] [Info   :LateJoinPlus] Late joiner mulhermiranhazero finished loading in 8,5 s (without LateJoinPlus).
+[15:51:11.513] [Info   :LateJoinPlus] Uncovered 9 explored room(s) on mulhermiranhazero's map (72 messages).
+[15:51:29.893] [Info   :Lobby Guard] [Lobby Guard] Joiner 'mulhermiranhazero' (player #4, Steam 76561198637940324 https://steamcommunity.com/profiles/76561198637940324), first 30 s: busiest second 4 KB in 31 messages (about 158 bytes each).
+[15:51:33.709] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.6 m above their feet).
+[15:51:34.318] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:51:44.852] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.5 m away, 1.2 m above their feet).
+[15:51:50.891] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:52:22.531] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.7 m away, 1.3 m above their feet).
+[15:52:24.291] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:57:18.054] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.7 m away, 1.4 m above their feet).
+[15:57:18.695] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:57:25.372] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.5 m away, 1.2 m above their feet).
+[15:57:38.432] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:57:46.717] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.8 m away, 1.7 m above their feet).
+[15:58:00.439] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.6 m away, 1.3 m above their feet).
+[15:58:01.314] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[15:58:06.672] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[15:58:08.047] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.8 m away, 1.5 m above their feet).
+[15:58:09.409] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[16:03:46.118] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (2.5 m away, 2.4 m above their feet).
+[16:03:46.828] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[16:04:08.130] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (2.1 m away, 1.9 m above their feet).
+[16:04:09.000] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[16:04:13.984] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (3 on the results screen, 0 loading, 1 ready); the players panel is up.
+[16:04:15.019] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[16:04:15.579] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:04:15.579] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:04:15.579] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:04:15.611] [Info   :LateJoinPlus] [Report] Level 'Level - Manor': OK | joins 1 (0 with LateJoinPlus), loaded 1 (avg 8,5 s, slowest 8,5 s), left while loading 0, still loading at level end 0, stuck 0 | map reveal 1 (9 rooms) | extraction: opened for joiner 1, already had it 0, softlocks prevented 0, auto-presses ignored 0 | Lobby Guard: blocked 0, banned 0, cheats ignored 0 | Steam lobby: rebuilt 0, re-sent to players 0 | slow catch-up steps 0
+[16:04:15.639] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[16:04:15.775] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[16:04:15.791] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[16:04:16.285] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'yakuza' peaked at 58 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[16:04:16.313] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[16:04:43.557] [Info   :LateJoinPlus] [Run] Level built in 27 s. Slowest step: rooms, 11,1 s from the first player to the last, yakuza.
+[16:06:09.053] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 288 but this PhotonView does not exist! Was remote PV. Remote called. By: #04 'mulhermiranhazero' Maybe GO was destroyed but RPC not cleaned up.
+[16:06:09.054] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 288 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'Gabx  - TTK: Gabrielacso__' Maybe GO was destroyed but RPC not cleaned up.
+[16:06:09.091] [Warning:Unity Log] Received RPC "SwingHitRPC" for viewID 288 but this PhotonView does not exist! Was remote PV. Remote called. By: #03 'yakuza' Maybe GO was destroyed but RPC not cleaned up.
+[16:06:30.536] [Info   :LateJoinPlus] [Death drop] yakuza died; the host shows them holding 0 item(s).
+[16:06:43.306] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[16:06:45.616] [Info   :LateJoinPlus] [Admin] Host revive yakuza: done - Revived yakuza.
+[16:08:38.399] [Info   :LateJoinPlus] Timing: game memory 3956 MB of 32675 MB, 151 MB of it from mods and scripts; textures 600 MB of 11944 MB video memory.
+[16:15:14.725] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[16:15:15.776] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[16:15:16.834] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:15:16.834] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:15:16.835] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:15:16.891] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[16:15:17.014] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[16:15:17.032] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[16:15:17.772] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[16:15:17.785] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'mulhermiranhazero' peaked at 59 messages/s (flood limit 500); most data from one player 6 KB/s (limit 100); 0 messages dropped.
+[16:15:24.572] [Warning:Unity Log] Item 'Item Upgrade Player Grab Strength' not found in the itemDictionary.
+[16:15:25.780] [Info   :LateJoinPlus] [Run] Level built in 8 s. Slowest step: rooms, 6,5 s from the first player to the last, yakuza.
+[16:15:25.805] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Gun Laser/1 is back in slot 1 (the game restoring slots).
+[16:15:25.811] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Gun Tranq/1 is back in slot 1 (the game restoring slots).
+[16:15:25.823] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Extraction Tracker/1 is back in slot 2 (the game restoring slots).
+[16:15:29.956] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Handgun/1 in slot 2.
+[16:15:30.698] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Shotgun/1 in slot 3.
+[16:15:35.449] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Shotgun/1 out of slot 3 (0.7 m away, 0.6 m above their feet).
+[16:15:36.434] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Handgun/1 out of slot 2 (0.3 m away, 0.3 m above their feet).
+[16:15:45.107] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[16:15:45.969] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[16:15:46.219] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[16:15:46.219] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[16:15:46.219] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[16:15:46.287] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[16:15:46.383] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[16:15:46.432] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[16:15:46.825] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 37 messages/s (flood limit 500); most data from one player 4 KB/s (limit 100); 0 messages dropped.
+[16:15:46.914] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[16:16:04.320] [Info   :LateJoinPlus] [Run] Level building has made no progress for 15 s on step ModuleSpawnRemote, waiting for yakuza (a slow PC, or their game has stopped answering). Where everyone is: yakuza 14% (rooms, last message 0 s ago), Gabx  - TTK: Gabrielacso__ 28% (valuables, last message 0 s ago), mulhermiranhazero 28% (valuables, last message 0 s ago), twitch.tv/NoobSupremo43 28% (valuables).
+[16:16:04.356] [Warning:Unity Log] Item 'Item Upgrade Player Grab Strength' not found in the itemDictionary.
+[16:16:04.784] [Info   :LateJoinPlus] [Run] Level building moved again. Where everyone is: Gabx  - TTK: Gabrielacso__ 28% (valuables, last message 0 s ago), yakuza 28% (valuables, last message 0 s ago), mulhermiranhazero 28% (valuables, last message 0 s ago), twitch.tv/NoobSupremo43 28% (valuables).
+[16:16:08.452] [Info   :LateJoinPlus] Timing: game memory 3366 MB of 32675 MB, 146 MB of it from mods and scripts; textures 501 MB of 11944 MB video memory.
+[16:16:13.854] [Info   :LateJoinPlus] [Run] Level built in 27 s. Slowest step: rooms, 16,1 s from the first player to the last, yakuza.
+[16:16:13.873] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Gun Laser/1 is back in slot 1 (the game restoring slots).
+[16:16:13.873] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43's Item Gun Tranq/1 is back in slot 1 (the game restoring slots).
+[16:16:13.897] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__'s Item Extraction Tracker/1 is back in slot 2 (the game restoring slots).
+[16:16:22.689] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Handgun/1 in slot 1.
+[16:16:23.560] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 took Item Gun Tranq/1 out of slot 1 (1.5 m away, 1.2 m above their feet).
+[16:16:26.391] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.4 m away, 1.1 m above their feet).
+[16:16:31.333] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.
+[16:16:31.460] [Info   :LateJoinPlus] [Slots] twitch.tv/NoobSupremo43 put Item Gun Tranq/1 in slot 1.
+[16:16:34.090] [Info   :LateJoinPlus] [Slots] 4 remembered item(s) are in their slots, 20 s into this level.
+[16:17:00.971] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Shotgun/1 in slot 3.
+[16:17:30.269] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Handgun/1 out of slot 1 (1.0 m away, 0.3 m above their feet).
+[16:17:37.250] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Handgun/1 in slot 1.
+[16:17:38.271] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Handgun/1 out of slot 1 (1.1 m away, 0.4 m above their feet).
+[16:17:42.914] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Handgun/1 in slot 1.
+[16:17:55.352] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Handgun/1 out of slot 1 (1.7 m away, 1.4 m above their feet).
+[16:18:00.070] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Handgun/1 in slot 1.
+[16:18:16.249] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ took Item Gun Laser/1 out of slot 1 (1.6 m away, 1.3 m above their feet).
+[16:18:30.790] [Info   :LateJoinPlus] [Slots] Gabx  - TTK: Gabrielacso__ put Item Gun Laser/1 in slot 1.

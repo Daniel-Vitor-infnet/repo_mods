@@ -1,0 +1,26 @@
+[17:28:15.576] [Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[17:28:15.576] [Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 56 patches applied, 0 failed.
+[17:28:18.486] [Warning:Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+   (repeated 2 more times)
+[17:28:19.694] [Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[17:28:20.804] [Info   :LateJoinPlus] [Admin] Freeze covers 76 enemy scripts (87 methods)
+[17:28:20.804] [Info   :LateJoinPlus] +=============================================================+
+[17:28:20.804] [Info   :LateJoinPlus] |  _           _         ___       _      ______ _            |
+[17:28:20.804] [Info   :LateJoinPlus] | | |         | |       |_  |     (_)     | ___ \ |           |
+[17:28:20.805] [Info   :LateJoinPlus] | | |     __ _| |_ ___    | | ___  _ _ __ | |_/ / |_   _ ___  |
+[17:28:20.805] [Info   :LateJoinPlus] | | |    / _` | __/ _ \   | |/ _ \| | '_ \|  __/| | | | / __| |
+[17:28:20.805] [Info   :LateJoinPlus] | | |___| (_| | ||  __/\__/ / (_) | | | | | |   | | |_| \__ \ |
+[17:28:20.806] [Info   :LateJoinPlus] | \_____/\__,_|\__\___\____/ \___/|_|_| |_\_|   |_|\__,_|___/ |
+[17:28:20.806] [Info   :LateJoinPlus] |                                                             |
+[17:28:20.806] [Info   :LateJoinPlus] |        v1.2.2  -  join any time, no invisible rooms         |
+[17:28:20.806] [Info   :LateJoinPlus] |        Lobby Guard anti-cheat  -  by RicketyWrecked         |
+[17:28:20.807] [Info   :LateJoinPlus] +=============================================================+
+[17:28:20.807] [Info   :LateJoinPlus] LateJoinPlus 1.2.2 loaded. Late join on, debug logging off.
+[17:28:20.807] [Info   :LateJoinPlus] Timing: start-up took 743 ms.
+[17:28:20.807] [Info   :Lobby Guard] Lobby Guard part loaded (block list: 102 Steam IDs, on).
+[17:28:20.808] [Info   :LateJoinPlus] Timing: late patches took 984 ms.
+[17:28:20.828] [Warning:Unity Log] Unable to load font face for [] font asset.
+[17:28:21.122] [Info   :LateJoinPlus] Timing: slowest frame so far 3720 ms, 4 s after start.
+[17:28:21.123] [Info   :LateJoinPlus] Timing: game memory 1823 MB of 32675 MB, 121 MB of it from mods and scripts; textures 181 MB of 11944 MB video memory.
+[17:28:21.124] [Info   :LateJoinPlus] Timing: Chinese font set-up took 8 ms and 1 MB.
+[17:28:21.124] [Info   :LateJoinPlus] Timing: the 3-second font scan took 1,6 ms (13 fonts).

@@ -1,0 +1,131 @@
+[Message:   BepInEx] BepInEx 5.4.23.5 - REPO (18/11/2026 20:30:24)
+[Info   :   BepInEx] Running under Unity v6000.3.28.4218392
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
+[Info   :   BepInEx] Loaded 2 patcher methods from [LateJoinPlus.MenuLibCompatibility 0.0.0.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] Patching [Assembly-CSharp] with [LateJoinPlus.Compatibility.MenuLibClickShim]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 18 plugins to load
+[Info   :   BepInEx] Loading [Simple Truck Compass 1.0.2]
+[Info   :Simple Truck Compass] Simple Truck Compass loaded successfully.
+[Info   :   BepInEx] Loading [UnlockAllCosmetics 1.0.5]
+[Info   :UnlockAllCosmetics] UnlockAllCosmetics 1.0.5 loaded
+[Info   :   BepInEx] Loading [MaliPrime Cosmetic Unlocker Mod 1.0.1]
+[Info   :   BepInEx] Loading [REPOLib 4.5.1]
+[Info   :   REPOLib] REPOLib has awoken!
+[Info   :   REPOLib] Loading bundle at C:\Program Files (x86)\Steam\steamapps\common\REPO\BepInEx\plugins\JellyMod.repobundle...
+[Info   :   BepInEx] Loading [REPO Mutant Enemies 2.0.3]
+[Info   :REPO Mutant Enemies] [Art] Using the game's native lit shader for mutant attack art.
+[Info   :REPO Mutant Enemies] REPO Mutant Enemies 2.0.3: 29 native enemy controllers verified.
+[Info   :REPO Mutant Enemies] [Mutation Sync] Persistent room-settings driver ready.
+[Info   :REPO Mutant Enemies] [Mutation Sync] Ready 2.0.3/780740491db64f06b8a0985632852dc6.
+[Info   :   BepInEx] Loading [Repo Steam Networking 0.1.3]
+[Info   :   BepInEx] Loading [ChargingStationTuning 1.0.0]
+[Info   :ChargingStationTuning] ChargingStationTuning v1.0.0 loaded.
+[Info   :   BepInEx] Loading [Extra Inventory Slots 1.2.1]
+[Info   :Extra Inventory Slots] Extra Inventory Slots v1.2.1 loaded for R.E.P.O. v0.5.0.
+[Info   :   BepInEx] Loading [NoItemSpawnLimit 1.0.9]
+[Info   :NoItemSpawnLimit] HeroHanex.NoItemSpawnLimit v1.0.9 has loaded!
+[Info   :   BepInEx] Loading [JellyMod 1.0.0]
+[Info   :  JellyMod] JellyMod v1.0.0 loaded. Waiting for the Jelly bundle from REPOLib (Jammy and Mini-Jammy are made from it).
+[Info   :   BepInEx] Loading [More Shop Items 4.3.2]
+[Info   :More Shop Items] Plugin More Shop Items v4.3.2 loaded successfully.
+[Info   :   BepInEx] Loading [Loot Intel 1.1.0]
+[Info   :Loot Intel] Loot Intel loaded.
+[Info   :   BepInEx] Loading [Menu Lib 2.6.0]
+[Debug  :  Menu Lib] Hooking `MenuPageMain.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageSettings.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageColor.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageEsc.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageRegions.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageServerList.Start`
+[Debug  :  Menu Lib] Hooking `MenuPageLobby.Start`
+[Debug  :  Menu Lib] Hooking `SemiFunc.UIMouseHover`
+[Debug  :  Menu Lib] Hooking `MenuPage.StateClosing`
+[Debug  :  Menu Lib] Hooking `ChatManager.StateInactive`
+[Info   :   BepInEx] Loading [REPOConfig 1.2.7]
+[Debug  :REPOConfig] Hooking `MenuPageMain.Start`
+[Info   :   BepInEx] Loading [MIMIC REPO 1.0.3]
+[Info   :MIMIC REPO] Living Double enemy template built from the Hunter body
+[Info   :MIMIC REPO] Living Double 1.0.3 ready
+[Info   :   BepInEx] Loading [R.E.P.O Fixes+ 1.3.10]
+[Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 58 patches applied, 0 failed.
+[Info   :   BepInEx] Loading [MapVote++ 1.3.0]
+[Info   : MapVote++] MapVote++ 1.3.0 loaded
+[Info   :   BepInEx] Loading [BigFriendlyButton 1.0.2]
+[Info   :BigFriendlyButton] BigFriendlyButton v1.0.2 loaded
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Odin Serializer ArchitectureInfo initialization with defaults (all unaligned read/writes disabled).
+[Info   : Unity Log] Odin Serializer detected whitelisted runtime platform WindowsPlayer and memory read test succeeded; enabling all unaligned memory read/writes.
+[Info   : Unity Log] Unity - Installation ID: a359fa0f-3c88-3224-2b64-23f0e19f3e6b
+[Info   : Unity Log] Steam - App ID: 3241660
+[Info   : Unity Log] Steam - User ID: 76561199195530811
+[Info   :More Shop Items] ShelfEventListener created!
+[Info   :   REPOLib] Adding levels.
+[Info   :   REPOLib] Adding valuables to valuable presets.
+[Info   :   REPOLib] Adding enemies.
+[Info   : Unity Log] VERSION: v0.5.2
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Info   :Repo Steam Networking] Created RepoSteamNetworkManager
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Info   :Repo Steam Networking] Created RepoNetworkingServer
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Info   :Repo Steam Networking] Created RepoNetworkingClient
+[Info   :Extra Inventory Slots] Registered stat dictionaries for slots 4-10, so their contents are saved, loaded and synchronised like the vanilla slots.
+[Info   :   REPOLib] Adding commands.
+[Info   : Unity Log] Commands Loaded (Chat): 8
+[Info   : Unity Log] Commands Loaded (Debug): 26
+[Info   :Extra Inventory Slots] Template inventory spot hierarchy:
+  Inventory Spot 1 [CanvasRenderer] [RawImage] [InventorySpot]
+  Icon [CanvasRenderer] [Image]
+  No Item [CanvasRenderer] [TextMeshProUGUI "1", noItem] [InputGlyphText template="[inventory1]"]
+  Numbers [CanvasRenderer] [TextMeshProUGUI "1"] [InputGlyphText template="[inventory1]"]
+  Battery Visual [BatteryVisualLogic]
+  Battery Visual/Battery Border Shadow [CanvasRenderer] [RawImage]
+  Battery Visual/Battery Border [CanvasRenderer] [RawImage]
+  Battery Visual/Battery Charge [CanvasRenderer] [RawImage]
+  Battery Visual/Battery BG [CanvasRenderer] [RawImage]
+  Battery Visual/Battery Drain [CanvasRenderer] [RawImage]
+  Battery Visual/BatteryBarsContainer [HorizontalLayoutGroup]
+  Battery Visual/Charge Needed [CanvasRenderer] [RawImage]
+  Battery Visual/Charge Needed/Charge Needed [CanvasRenderer] [RawImage]
+  Battery Visual/Charge Needed/Text (TMP) [CanvasRenderer] [TextMeshProUGUI "[   ]"]
+  Battery Visual/Battery Out
+  Battery Visual/Battery Out/Battery Out Line [CanvasRenderer] [RawImage]
+  Battery Visual/Battery Out/Battery Out Line [CanvasRenderer] [RawImage]
+[Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[Info   : Unity Log] [MetaSave] MetaSave.es3 found
+[Info   :   REPOLib] [MetaSaveModded] MetaSaveModded.es3 found
+[Info   :UnlockAllCosmetics] [start] all cosmetics unlocked: assets=557, changed=False
+[Info   :   REPOLib] Adding level ambiences.
+[Info   :R.E.P.O Fixes+] Registered player (viewID=0) with 3 enemy trackers currently in the scene.
+[Info   : Unity Log] [Input Manager] Input layout switched from [] to [00000416].
+[Debug  :   BepInEx] [UnityInput] Using LegacyInputSystem
+[Info   : Unity Log] Unity - Player ID: 0JXJ1Rp9LhrmLho2NGEJAvjDICHC
+[Debug  :   REPOLib] Fixed AudioMixerGroup on GameObject "Enemy - Jelly/Audio Source". AudioMixerGroup "Sound/Sound Effects"
+[Info   :   REPOLib] Finished loading bundles.
+[Debug  :   REPOLib] Fixed AudioMixerGroup on GameObject "Enemy - Jammy/Audio Source". AudioMixerGroup "Sound/Sound Effects"
+[Info   :  JellyMod] Jammy registered (level 3).
+[Debug  :   REPOLib] Fixed AudioMixerGroup on GameObject "Enemy - Mini Jammy/Audio Source". AudioMixerGroup "Sound/Sound Effects"
+[Info   :  JellyMod] Mini-Jammy ready (only appears when a Jammy splits).
+[Info   :   REPOLib] Adding cosmetics.
+[Info   :   REPOLib] [MetaSaveModded] MetaSaveModded.es3 found
+[Info   : Unity Log] [RemoteConfig] New settings loaded this session; update values accordingly.
+[Info   : Unity Log] leaving photon
+[Info   : Unity Log] Steam: Leaving lobby...
+[Info   : Unity Log] Leave to Main Menu
+[Info   :More Shop Items] ShelfEventListener created!
+[Info   :   REPOLib] Adding enemies.
+[Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[Info   :R.E.P.O Fixes+] Registered player (viewID=0) with 7 enemy trackers currently in the scene.
+[Info   : Unity Log] [InputManager] Switch to UI Inputs

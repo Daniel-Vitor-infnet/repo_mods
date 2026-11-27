@@ -1,0 +1,196 @@
+[catalog] valuables found: 193 from 1 source(s)
+  vanilla: 193 (Tiny 36, Small 42, Medium 46, Big 29, Wide 18, Tall 11, Very Tall 11)
+    Tiny | Valuable Arctic Coffee Cup | levels: Level - Arctic
+    Tiny | Valuable Arctic Eraser | levels: Level - Arctic
+    Tiny | Valuable Arctic Keycard | levels: Level - Arctic
+    Tiny | Valuable Arctic Phone | levels: Level - Arctic
+    Tiny | Valuable Arctic Pills | levels: Level - Arctic
+    Tiny | Valuable Arctic Smartwatch | levels: Level - Arctic
+    Tiny | Valuable Arctic Stapler | levels: Level - Arctic
+    Tiny | Valuable Arctic Uranium Petri Dish | levels: Level - Arctic
+    Tiny | Valuable Arctic Usb stick | levels: Level - Arctic
+    Tiny | Valuable Desert Golden Coin | levels: Level - Desert
+    Tiny | Valuable Desert Golden Horse Shoe | levels: Level - Desert
+    Tiny | Valuable Desert Golden lock | levels: Level - Desert
+    Tiny | Valuable Desert Lighter | levels: Level - Desert
+    Tiny | Valuable Desert Magnet | levels: Level - Desert
+    Tiny | Valuable Desert Mouth Harp | levels: Level - Desert
+    Tiny | Valuable Desert Snow globe | levels: Level - Desert
+    Tiny | Valuable Manor Emerald Bracelet | levels: Level - Manor
+    Tiny | Valuable Manor Goblet | levels: Level - Manor
+    Tiny | Valuable Manor Ocarina | levels: Level - Manor
+    Tiny | Valuable Manor Pocket Watch | levels: Level - Manor
+    Tiny | Valuable Manor Uranium Mug | levels: Level - Manor
+    Tiny | Valuable Museum Cool brain | levels: Level - Museum
+    Tiny | Valuable Museum Fish | levels: Level - Museum
+    Tiny | Valuable Museum GoldFish | levels: Level - Museum
+    Tiny | Valuable Museum GoldTooth | levels: Level - Museum
+    Tiny | Valuable Museum RubenDoll | levels: Level - Museum
+    Tiny | Valuable Museum SilverFish | levels: Level - Museum
+    Tiny | Valuable Museum Toast | levels: Level - Museum
+    Tiny | Valuable Museum Tooth | levels: Level - Museum
+    Tiny | Valuable Wizard Bird Skull | levels: Level - Wizard
+    Tiny | Valuable Wizard Bug | levels: Level - Wizard
+    Tiny | Valuable Wizard Diamond | levels: Level - Wizard
+    Tiny | Valuable Wizard Eye Ball | levels: Level - Wizard
+    Tiny | Valuable Wizard Glowing Jar | levels: Level - Wizard
+    Tiny | Valuable Wizard Small Gem | levels: Level - Wizard
+    Tiny | Valuable Wizard Small Potion | levels: Level - Wizard
+    Small | Valuable Arctic Bonsai | levels: Level - Arctic
+    Small | Valuable Arctic Calculator | levels: Level - Arctic
+    Small | Valuable Arctic Camera | levels: Level - Arctic
+    Small | Valuable Arctic HDD | levels: Level - Arctic
+    Small | Valuable Arctic VHS | levels: Level - Arctic
+    Small | Valuable Desert Fossil | levels: Level - Desert
+    Small | Valuable Desert Gold Bar | levels: Level - Desert
+    Small | Valuable Desert Harmonica | levels: Level - Desert
+    Small | Valuable Desert Horse on wheels | levels: Level - Desert
+    Small | Valuable Desert Lunch box | levels: Level - Desert
+    Small | Valuable Desert Pan Flute | levels: Level - Desert
+    Small | Valuable Desert Post card | levels: Level - Desert
+    Small | Valuable Desert Sippy cup | levels: Level - Desert
+    Small | Valuable Desert Snake in a can | levels: Level - Desert
+    Small | Valuable Manor Doll | levels: Level - Manor
+    Small | Valuable Manor Frog | levels: Level - Manor
+    Small | Valuable Manor Globe | levels: Level - Manor
+    Small | Valuable Manor Instrument | levels: Level - Manor
+    Small | Valuable Manor Money | levels: Level - Manor
+    Small | Valuable Manor Music Box | levels: Level - Manor
+    Small | Valuable Manor Toy Monkey | levels: Level - Manor
+    Small | Valuable Manor Uranium Plate | levels: Level - Manor
+    Small | Valuable Manor Vase Small | levels: Level - Manor
+    Small | Valuable Museum Banana Bow | levels: Level - Museum
+    Small | Valuable Museum Car | levels: Level - Museum
+    Small | Valuable Museum Cocktail | levels: Level - Museum
+    Small | Valuable Museum Cube ball | levels: Level - Museum
+    Small | Valuable Museum Cubic Tower | levels: Level - Museum
+    Small | Valuable Museum duck man | levels: Level - Museum
+    Small | Valuable Museum Flesh Blob | levels: Level - Museum
+    Small | Valuable Museum ladybug | levels: Level - Museum
+    Small | Valuable Museum PimpleGuy | levels: Level - Museum
+    Small | Valuable Museum Plane | levels: Level - Museum
+    Small | Valuable Museum Wire Figure | levels: Level - Museum
+    Small | Valuable Wizard Chomp Book | levels: Level - Wizard
+    Small | Valuable Wizard Crown | levels: Level - Wizard
+    Small | Valuable Wizard Fortune Card | levels: Level - Wizard
+    Small | Valuable Wizard Gem Box | levels: Level - Wizard
+    Small | Valuable Wizard Levitation Potion | levels: Level - Wizard
+    Small | Valuable Wizard Love Potion | levels: Level - Wizard
+    Small | Valuable Wizard Pendant | levels: Level - Wizard
+    Small | Valuable Wizard Red Mushroom | levels: Level - Wizard
+    Medium | Valuable Arctic 3D Printer | levels: Level - Arctic
+    Medium | Valuable Arctic Computer | levels: Level - Arctic
+    Medium | Valuable Arctic Fan | levels: Level - Arctic
+    Medium | Valuable Arctic Fire Extinguisher | levels: Level - Arctic
+    Medium | Valuable Arctic Flashlight | levels: Level - Arctic
+    Medium | Valuable Arctic Icepick | levels: Level - Arctic
+    Medium | Valuable Arctic Laptop | levels: Level - Arctic
+    Medium | Valuable Arctic Propane Tank | levels: Level - Arctic
+    Medium | Valuable Arctic Sample | levels: Level - Arctic
+    Medium | Valuable Arctic Sample Six Pack | levels: Level - Arctic
+    Medium | Valuable Arctic Scale | levels: Level - Arctic
+    Medium | Valuable Desert Backpack | levels: Level - Desert
+    Medium | Valuable Desert Banjo | levels: Level - Desert
+    Medium | Valuable Desert Cowboy action figure | levels: Level - Desert
+    Medium | Valuable Desert Cowboy boot trophy | levels: Level - Desert
+    Medium | Valuable Desert Fluffy Buddy | levels: Level - Desert
+    Medium | Valuable Desert Mineral case | levels: Level - Desert
+    Medium | Valuable Desert Rattlesnake | levels: Level - Desert
+    Medium | Valuable Desert Suitcase | levels: Level - Desert
+    Medium | Valuable Manor Bottle | levels: Level - Manor
+    Medium | Valuable Manor Clown | levels: Level - Manor
+    Medium | Valuable Manor Gramophone | levels: Level - Manor
+    Medium | Valuable Manor Kettle | levels: Level - Manor
+    Medium | Valuable Manor Magnifying Glass | levels: Level - Manor
+    Medium | Valuable Manor Map | levels: Level - Manor
+    Medium | Valuable Manor Marble Table | levels: Level - Manor
+    Medium | Valuable Manor Old Camera | levels: Level - Manor
+    Medium | Valuable Manor Radio | levels: Level - Manor
+    Medium | Valuable Manor Ship in a bottle | levels: Level - Manor
+    Medium | Valuable Manor Trophy | levels: Level - Manor
+    Medium | Valuable Manor Vase | levels: Level - Manor
+    Medium | Valuable Museum Cubic Sculpture | levels: Level - Museum
+    Medium | Valuable Museum Gumball | levels: Level - Museum
+    Medium | Valuable Museum Handface | levels: Level - Museum
+    Medium | Valuable Museum MonkeyBox | levels: Level - Museum
+    Medium | Valuable Museum Pacifier | levels: Level - Museum
+    Medium | Valuable Museum Teeth Bot | levels: Level - Museum
+    Medium | Valuable Wizard Crystal | levels: Level - Wizard
+    Medium | Valuable Wizard Crystal Ball | levels: Level - Wizard
+    Medium | Valuable Wizard Eye of Orpigox | levels: Level - Wizard
+    Medium | Valuable Wizard Goblin Head | levels: Level - Wizard
+    Medium | Valuable Wizard Poison Chalice | levels: Level - Wizard
+    Medium | Valuable Wizard Power Crystal | levels: Level - Wizard
+    Medium | Valuable Wizard Star Wand | levels: Level - Wizard
+    Medium | Valuable Wizard Tentacle | levels: Level - Wizard
+    Medium | Valuable Wizard Time Glass | levels: Level - Wizard
+    Big | Valuable Arctic Barrel | levels: Level - Arctic
+    Big | Valuable Arctic Big Sample | levels: Level - Arctic
+    Big | Valuable Arctic Creature Leg | levels: Level - Arctic
+    Big | Valuable Arctic Flamethrower | levels: Level - Arctic
+    Big | Valuable Arctic Guitar | levels: Level - Arctic
+    Big | Valuable Arctic Ice Saw | levels: Level - Arctic
+    Big | Valuable Arctic Sample Cooler | levels: Level - Arctic
+    Big | Valuable Desert Energy Crystal Chunk | levels: Level - Desert
+    Big | Valuable Desert Golden Shovel | levels: Level - Desert
+    Big | Valuable Desert Golden Wheel | levels: Level - Desert
+    Big | Valuable Desert Rocking Chair | levels: Level - Desert
+    Big | Valuable Manor Diamond Display | levels: Level - Manor
+    Big | Valuable Manor Scream Doll | levels: Level - Manor
+    Big | Valuable Manor Telescope | levels: Level - Manor
+    Big | Valuable Manor Television | levels: Level - Manor
+    Big | Valuable Manor Vase Big | levels: Level - Manor
+    Big | Valuable Manor Vase Chunky | levels: Level - Manor
+    Big | Valuable Museum Baby Head | levels: Level - Museum
+    Big | Valuable Museum Boombox | levels: Level - Museum
+    Big | Valuable Museum Egg | levels: Level - Museum
+    Big | Valuable Museum Gem Burger | levels: Level - Museum
+    Big | Valuable Museum Golden Swirl | levels: Level - Museum
+    Big | Valuable Museum Uranium Mug Deluxe | levels: Level - Museum
+    Big | Valuable Wizard Cauldron Box | levels: Level - Wizard
+    Big | Valuable Wizard Cube of Knowledge | levels: Level - Wizard
+    Big | Valuable Wizard Forever Candle | levels: Level - Wizard
+    Big | Valuable Wizard Master Potion | levels: Level - Wizard
+    Big | Valuable Wizard Spider Potion | levels: Level - Wizard
+    Big | Valuable Wizard Unicorn Horn | levels: Level - Wizard
+    Wide | Valuable Arctic Centrifuge | levels: Level - Arctic
+    Wide | Valuable Arctic Ice Block | levels: Level - Arctic
+    Wide | Valuable Arctic Sample Cooler Wide | levels: Level - Arctic
+    Wide | Valuable Arctic Snow Bike | levels: Level - Arctic
+    Wide | Valuable Desert Distillery | levels: Level - Desert
+    Wide | Valuable Desert Golfcart | levels: Level - Desert
+    Wide | Valuable Desert Popcorn stand | levels: Level - Desert
+    Wide | Valuable Manor Animal Crate | levels: Level - Manor
+    Wide | Valuable Manor Dinosaur | levels: Level - Manor
+    Wide | Valuable Manor Piano | levels: Level - Manor
+    Wide | Valuable Museum Horse | levels: Level - Museum
+    Wide | Valuable Museum Tray | levels: Level - Museum
+    Wide | Valuable Museum Vinyl | levels: Level - Museum
+    Wide | Valuable Museum Worm | levels: Level - Museum
+    Wide | Valuable Wizard Alchemy Station | levels: Level - Wizard
+    Wide | Valuable Wizard Dragon Skull | levels: Level - Wizard
+    Wide | Valuable Wizard Goblin Arm | levels: Level - Wizard
+    Wide | Valuable Wizard Griffin Statue | levels: Level - Wizard
+    Tall | Valuable Arctic Heavy Water | levels: Level - Arctic
+    Tall | Valuable Arctic Jackhammer | levels: Level - Arctic
+    Tall | Valuable Arctic Science Station | levels: Level - Arctic
+    Tall | Valuable Desert Bird Cage | levels: Level - Desert
+    Tall | Valuable Desert Shooting Cowboy | levels: Level - Desert
+    Tall | Valuable Manor Harp | levels: Level - Manor
+    Tall | Valuable Manor Painting | levels: Level - Manor
+    Tall | Valuable Museum Milk | levels: Level - Museum
+    Tall | Valuable Museum Tall Guy | levels: Level - Museum
+    Tall | Valuable Wizard Dumgolfs Staff | levels: Level - Wizard
+    Tall | Valuable Wizard Sword | levels: Level - Wizard
+    Very Tall | Valuable Arctic Cryo Pod | levels: Level - Arctic
+    Very Tall | Valuable Arctic Server Rack | levels: Level - Arctic
+    Very Tall | Valuable Desert Explosive Tower | levels: Level - Desert
+    Very Tall | Valuable Desert Zero Grav crystal | levels: Level - Desert
+    Very Tall | Valuable Manor Coffin | levels: Level - Manor
+    Very Tall | Valuable Manor Golden Statue | levels: Level - Manor
+    Very Tall | Valuable Manor Grandfather Clock | levels: Level - Manor
+    Very Tall | Valuable Museum Blender | levels: Level - Museum
+    Very Tall | Valuable Museum Traffic Light | levels: Level - Museum
+    Very Tall | Valuable Wizard Broom | levels: Level - Wizard
+    Very Tall | Valuable Wizard Troll Finger | levels: Level - Wizard
+  (value ranges and fragility are filled in as each level loads its valuables)

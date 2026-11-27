@@ -1,0 +1,169 @@
+[13:50:17.564] [Info   :R.E.P.O Fixes+] [Truck items] NoItemSpawnLimit found; bought items that don't fit the truck's spots are put on top of spots in the truck.
+[13:50:17.565] [Info   :R.E.P.O Fixes+] R.E.P.O Fixes+ loaded: 56 patches applied, 0 failed.
+[13:50:19.559] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named SharedUpgradesPlus.Services.DistributionService
+[13:50:19.813] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named SharedUpgradesPlus.Services.SyncService
+[13:50:20.600] [Warning:Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+   (repeated 2 more times)
+[13:50:20.817] [Info   :R.E.P.O Fixes+] Extra slot labels: kept the number on inventory slot 4 and any others a mod added.
+[13:50:23.160] [Info   :LateJoinPlus] [Admin] Freeze covers 76 enemy scripts (87 methods)
+[13:50:23.160] [Info   :LateJoinPlus] +=============================================================+
+[13:50:23.161] [Info   :LateJoinPlus] |  _           _         ___       _      ______ _            |
+[13:50:23.161] [Info   :LateJoinPlus] | | |         | |       |_  |     (_)     | ___ \ |           |
+[13:50:23.161] [Info   :LateJoinPlus] | | |     __ _| |_ ___    | | ___  _ _ __ | |_/ / |_   _ ___  |
+[13:50:23.161] [Info   :LateJoinPlus] | | |    / _` | __/ _ \   | |/ _ \| | '_ \|  __/| | | | / __| |
+[13:50:23.162] [Info   :LateJoinPlus] | | |___| (_| | ||  __/\__/ / (_) | | | | | |   | | |_| \__ \ |
+[13:50:23.162] [Info   :LateJoinPlus] | \_____/\__,_|\__\___\____/ \___/|_|_| |_\_|   |_|\__,_|___/ |
+[13:50:23.162] [Info   :LateJoinPlus] |                                                             |
+[13:50:23.162] [Info   :LateJoinPlus] |        v1.2.2  -  join any time, no invisible rooms         |
+[13:50:23.163] [Info   :LateJoinPlus] |        Lobby Guard anti-cheat  -  by RicketyWrecked         |
+[13:50:23.163] [Info   :LateJoinPlus] +=============================================================+
+[13:50:23.163] [Info   :LateJoinPlus] LateJoinPlus 1.2.2 loaded. Late join on, debug logging off.
+[13:50:23.164] [Info   :LateJoinPlus] Timing: start-up took 910 ms.
+[13:50:23.164] [Info   :Lobby Guard] Lobby Guard part loaded (block list: 102 Steam IDs, on).
+[13:50:23.164] [Info   :LateJoinPlus] Timing: late patches took 821 ms.
+[13:50:23.198] [Warning:Unity Log] Unable to load font face for [] font asset.
+[13:50:23.577] [Info   :LateJoinPlus] Timing: slowest frame so far 2789 ms, 3 s after start.
+[13:50:23.577] [Info   :LateJoinPlus] Timing: game memory 1762 MB of 32675 MB, 96 MB of it from mods and scripts; textures 181 MB of 11944 MB video memory.
+[13:50:23.578] [Info   :LateJoinPlus] Timing: Chinese font set-up took 11 ms and 1 MB.
+[13:50:23.578] [Info   :LateJoinPlus] Timing: the 3-second font scan took 2,1 ms (13 fonts).
+[13:50:28.096] [Info   :Unity Log] leaving photon
+[13:50:28.098] [Info   :Unity Log] Leave to Main Menu
+[13:50:28.139] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[13:50:28.139] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[13:50:28.140] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[13:50:39.057] [Info   :Unity Log] Disconnected from server for reason DisconnectByClientLogic
+[13:50:49.072] [Info   :LateJoinPlus] [Moderators] Room publishes user IDs: yes.
+[13:50:49.072] [Info   :LateJoinPlus] [Moderators] Loading screen: 1 player(s) (0 on the results screen, 0 loading, 1 ready); the players panel is up.
+[13:50:49.099] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[13:50:49.099] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[13:50:49.099] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[13:50:49.342] [Info   :R.E.P.O Fixes+] [Connection timeout] Photon disconnect timeout set to 30s, resends to 10; voice chat 30s.
+[13:50:49.364] [Warning:Unity Log] [2026-11-23T16:50:49] [Warning] [PhotonVoiceView] [Voice(Clone)] PhotonVoiceView.RecorderInUse.TransmitEnabled is false, don't forget to set it to true to enable transmission.
+[13:50:49.544] [Info   :Lobby Guard] [Lobby Guard] GameTools is locked in this lobby: it switches itself off for everyone else (moderators too).
+[13:50:50.739] [Info   :LateJoinPlus] Timing: game memory 2399 MB of 32675 MB, 101 MB of it from mods and scripts; textures 207 MB of 11944 MB video memory.
+[13:51:47.651] [Info   :Lobby Guard] [Lobby Guard] Joined: 'mulhermiranhazero' (player #2, Steam 76561198637940324 https://steamcommunity.com/profiles/76561198637940324).
+[13:52:09.658] [Info   :Lobby Guard] [Lobby Guard] Joined: 'Gabx  - TTK: Gabrielacso__' (player #3, Steam 76561198638538597 https://steamcommunity.com/profiles/76561198638538597).
+[13:52:17.672] [Info   :Lobby Guard] [Lobby Guard] Joiner 'mulhermiranhazero' (player #2, Steam 76561198637940324 https://steamcommunity.com/profiles/76561198637940324), first 30 s: busiest second 3 KB in 32 messages (about 100 bytes each).
+[13:52:32.685] [Info   :Lobby Guard] [Lobby Guard] Joined: 'yakuza' (player #4, Steam 76561199200400686 https://steamcommunity.com/profiles/76561199200400686).
+[13:52:39.697] [Info   :Lobby Guard] [Lobby Guard] Joiner 'Gabx  - TTK: Gabrielacso__' (player #3, Steam 76561198638538597 https://steamcommunity.com/profiles/76561198638538597), first 30 s: busiest second 3 KB in 34 messages (about 101 bytes each).
+[13:53:02.717] [Info   :Lobby Guard] [Lobby Guard] Joiner 'yakuza' (player #4, Steam 76561199200400686 https://steamcommunity.com/profiles/76561199200400686), first 30 s: busiest second 3 KB in 31 messages (about 103 bytes each).
+[13:54:53.793] [Info   :LateJoinPlus] [Run] Run starts in 5 s (twitch.tv/NoobSupremo43). Click Start again to call it off, Shift-click to start now.
+[13:54:58.389] [Info   :LateJoinPlus] [Run] Run start called off by the host.
+[13:55:03.852] [Info   :LateJoinPlus] [Run] Run starts in 5 s (twitch.tv/NoobSupremo43). Click Start again to call it off, Shift-click to start now.
+[13:55:08.884] [Info   :LateJoinPlus] [Run] Run starting (countdown ended).
+[13:55:09.879] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[13:55:10.657] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[13:55:12.103] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[13:55:12.103] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[13:55:12.104] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[13:55:12.175] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[13:55:12.203] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'mulhermiranhazero' peaked at 36 messages/s (flood limit 500); most data from one player 3 KB/s (limit 100); 0 messages dropped.
+[13:55:12.272] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[13:55:12.303] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[13:55:12.316] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[13:55:12.481] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named RepoRPG.RunShape
+[13:55:29.893] [Warning:HarmonyX] AccessTools.TypeByName: Could not find type named RepoRPG.ValueScale
+   (repeated 1 more times)
+[13:55:37.124] [Info   :LateJoinPlus] [Run] Level built in 26 s. Slowest step: rooms, 13,5 s from the first player to the last, yakuza.
+[13:55:50.759] [Info   :LateJoinPlus] Timing: game memory 2995 MB of 32675 MB, 117 MB of it from mods and scripts; textures 446 MB of 11944 MB video memory.
+[13:56:34.194] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Right Side/Cosmetic Blocked Right/Animation/Mesh Blocked/mesh 01"
+[14:08:42.186] [Info   :LateJoinPlus] [Death drop] twitch.tv/NoobSupremo43 died; the host shows them holding 0 item(s).
+[14:08:49.331] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Left Side/Cosmetic Blocked Left/Animation/Mesh Blocked/mesh 01"
+[14:09:19.069] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:09:20.139] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[14:09:20.562] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:09:20.562] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:09:20.562] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:09:20.628] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[14:09:20.725] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:09:20.769] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'Gabx  - TTK: Gabrielacso__' peaked at 76 messages/s (flood limit 500); most data from one player 7 KB/s (limit 100); 0 messages dropped.
+[14:09:20.775] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[14:09:20.996] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:09:49.295] [Info   :LateJoinPlus] [Run] Level built in 28 s. Slowest step: rooms, 12,1 s from the first player to the last, yakuza.
+[14:09:50.823] [Info   :LateJoinPlus] Timing: game memory 3646 MB of 32675 MB, 110 MB of it from mods and scripts; textures 587 MB of 11944 MB video memory.
+[14:10:08.301] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Right Side/Cosmetic Blocked Right/Animation/Mesh Blocked/mesh 01"
+[14:10:46.638] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[14:13:55.812] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Left Side/Cosmetic Blocked Left/Animation/Mesh Blocked/mesh 01"
+[14:15:01.399] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:15:02.497] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[14:15:03.406] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:15:03.406] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:15:03.407] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:15:03.467] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[14:15:03.596] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:15:03.612] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[14:15:04.095] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:15:04.195] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'yakuza' peaked at 43 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[14:15:12.365] [Info   :LateJoinPlus] [Run] Level built in 8 s. Slowest step: rooms, 6,5 s from the first player to the last, yakuza.
+[14:15:16.416] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:15:22.292] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 268 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'mulhermiranhazero' Maybe GO was destroyed but RPC not cleaned up.
+[14:15:22.293] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 268 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'mulhermiranhazero' Maybe GO was destroyed but RPC not cleaned up.
+[14:15:26.073] [Warning:Unity Log] Received RPC "GrabLinkRPC" for viewID 263 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'mulhermiranhazero' Maybe GO was destroyed but RPC not cleaned up.
+[14:15:26.073] [Warning:Unity Log] Received RPC "GrabPointSyncRPC" for viewID 263 but this PhotonView does not exist! Was remote PV. Remote called. By: #02 'mulhermiranhazero' Maybe GO was destroyed but RPC not cleaned up.
+[14:16:04.069] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (4 on the results screen, 0 loading, 0 ready); the players panel is up.
+[14:16:04.950] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 4 loading, 0 ready); the players panel is up.
+[14:16:05.191] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:16:05.191] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:16:05.192] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:16:05.278] [Info   :LateJoinPlus] [Moderators] Loading screen: 4 player(s) (0 on the results screen, 3 loading, 1 ready); the players panel is up.
+[14:16:05.288] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'mulhermiranhazero' peaked at 41 messages/s (flood limit 500); most data from one player 5 KB/s (limit 100); 0 messages dropped.
+[14:16:05.375] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:16:05.400] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[14:16:05.656] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:16:29.807] [Info   :LateJoinPlus] [Run] Level built in 24 s. Slowest step: rooms, 14,1 s from the first player to the last, yakuza.
+[14:16:29.808] [Info   :LateJoinPlus] [Slots] yakuza's Item Gun Revolver/1 is back in slot 1 (the game restoring slots).
+[14:16:39.531] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Right Side/Cosmetic Blocked Right/Animation/Mesh Blocked/mesh 01"
+[14:16:50.121] [Info   :LateJoinPlus] [Slots] 1 remembered item(s) are in their slots, 20 s into this level.
+[14:17:56.615] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.7 m away, 1.4 m above their feet).
+[14:17:59.452] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:18:04.131] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (0.4 m away, 0.4 m above their feet).
+[14:18:05.294] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:18:47.651] [Warning:Unity Log] BoxCollider does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "PlayerAvatar(Clone)/Player Visuals/[RIG]/code_lean/code_tilt/ANIM BOT/_____________________________________/ANIM BODY BOT/_____________________________________/ANIM BODY TOP/code_body_top_up/code_body_top_side/_____________________________________/ANIM HEAD BOT/code_head_bot_up/code_head_bot_side/Player Spring Impulse - Head Bot/_____________________________________/ANIM HEAD TOP/code_head_top/Cosmetic Parent - Head Top Mesh/Cosmetic Parent - Head Top/Cosmetic - Hat - Hair Pigtails 02(Clone)/Visuals/Offset Condition/Left Side/Cosmetic Blocked Left/Animation/Mesh Blocked/mesh 01"
+[14:20:36.213] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (0.9 m away, 0.5 m above their feet).
+[14:20:38.991] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:20:53.999] [Info   :LateJoinPlus] Late joiner TioNoob connected (level Level - Museum). Catching them up.
+[14:20:54.806] [Info   :Lobby Guard] [Lobby Guard] Joined: 'TioNoob' (player #5, Steam 76561198085526261 https://steamcommunity.com/profiles/76561198085526261).
+[14:20:57.004] [Info   :LateJoinPlus] Sent the setup of 9 level piece(s) once to TioNoob (without LateJoinPlus).
+[14:21:07.048] [Info   :LateJoinPlus] Late joiner TioNoob finished loading in 13,1 s (without LateJoinPlus).
+[14:21:11.390] [Info   :LateJoinPlus] Uncovered 10 explored room(s) on TioNoob's map (79 messages).
+[14:21:24.844] [Info   :Lobby Guard] [Lobby Guard] Joiner 'TioNoob' (player #5, Steam 76561198085526261 https://steamcommunity.com/profiles/76561198085526261), first 30 s: busiest second 6 KB in 50 messages (about 142 bytes each).
+[14:31:40.450] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.7 m away, 1.4 m above their feet).
+[14:31:43.092] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:37:13.032] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.7 m away, 1.3 m above their feet).
+[14:37:15.232] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:37:23.453] [Info   :LateJoinPlus] [Slots] yakuza took Item Gun Revolver/1 out of slot 1 (1.5 m away, 1.1 m above their feet).
+[14:37:28.192] [Info   :LateJoinPlus] [Slots] yakuza put Item Gun Revolver/1 in slot 1.
+[14:37:31.113] [Info   :LateJoinPlus] [Menu] LATE JOIN menu: Overview (as host).
+[14:37:36.192] [Info   :LateJoinPlus] [Moderators] Loading screen: 5 player(s) (4 on the results screen, 0 loading, 1 ready); the players panel is up.
+[14:37:40.580] [Info   :LateJoinPlus] [Moderators] Loading screen: 5 player(s) (0 on the results screen, 5 loading, 0 ready); the players panel is up.
+[14:37:41.282] [Warning:Repo Steam Networking] RepoSteamNetworkManager already initialized!
+[14:37:41.283] [Warning:Repo Steam Networking] RepoNetworkingServer already initialized!
+[14:37:41.283] [Warning:Repo Steam Networking] RepoNetworkingClient already initialized!
+[14:37:41.315] [Info   :LateJoinPlus] [Report] Level 'Level - Museum': OK | joins 1 (0 with LateJoinPlus), loaded 1 (avg 13,1 s, slowest 13,1 s), left while loading 0, still loading at level end 0, stuck 0 | map reveal 1 (10 rooms) | extraction: opened for joiner 1, already had it 0, softlocks prevented 0, auto-presses ignored 1 | Lobby Guard: blocked 0, banned 0, cheats ignored 0 | Steam lobby: rebuilt 0, re-sent to players 0 | slow catch-up steps 0
+[14:37:41.334] [Info   :LateJoinPlus] [Moderators] Loading screen: 5 player(s) (0 on the results screen, 4 loading, 1 ready); the players panel is up.
+[14:37:41.474] [Info   :LateJoinPlus] Waited 0,1 s for Gabx  - TTK: Gabrielacso__'s Steam ID before loading their upgrades and name tag.
+[14:37:41.501] [Info   :LateJoinPlus] Waited 0,1 s for mulhermiranhazero's Steam ID before loading their upgrades and name tag.
+[14:37:41.596] [Info   :LateJoinPlus] Waited 0,1 s for TioNoob's Steam ID before loading their upgrades and name tag.
+[14:37:41.684] [Info   :Lobby Guard] [Lobby Guard] Last level: busiest player 'yakuza' peaked at 74 messages/s (flood limit 500); most data from one player 12 KB/s (limit 100); 0 messages dropped.
+[14:37:41.915] [Info   :LateJoinPlus] Waited 0,1 s for yakuza's Steam ID before loading their upgrades and name tag.
+[14:38:08.461] [Info   :LateJoinPlus] [Run] Level built in 27 s. Slowest step: rooms, 12,6 s from the first player to the last, yakuza.
+[14:38:14.240] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+[14:38:17.611] [Info   :LateJoinPlus] [Admin] Upgrades page for TioNoob (game id ok): Health 0, Stamina 0, Speed 0, Strength 0, Range 0, Throw 0, ExtraJump 0, Launch 0, TumbleWings 0, TumbleClimb 0, CrouchRest 0, DeathHeadBattery 0, MapPlayerCount 0.
+[14:39:13.135] [Info   :LateJoinPlus] [Menu] Admin panel opened (as host).
+   (repeated 2 more times)
+[14:39:30.177] [Info   :LateJoinPlus] [Admin] Host spawn: done - Spawned Throw Upgrade ×1.
+   (repeated 2 more times)
+[14:40:49.443] [Info   :LateJoinPlus] [Moderators] Loading screen: 5 player(s) (0 on the results screen, 0 loading, 5 ready); the players panel is up.
+=== game closed normally ===

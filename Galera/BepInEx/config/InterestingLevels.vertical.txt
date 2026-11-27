@@ -1,0 +1,271 @@
+# InterestingLevels: walkable height range (m) per room, learned while playing. Safe to delete.
+Level/Manor/Modules/Module - Manor - DE - 3 - Bottomless basement	4.00
+Level/Manor/Modules/Module - Manor - DE - 2 - Hidden Safe Bedroom	4.00
+Level/Manor/Modules/Module - Manor - N - 3 - Treasure Trove	0.00
+Level/Manor/Modules/Module - Manor - E - 2 - Stairway	4.00
+Level/Manor/Modules/Module - Manor - N - 3 - House within a house	4.00
+Level/Manor/Modules/Module - Manor - N - 3 - Bunk Beds	0.00
+Level/Manor/Modules/Module - Manor - N - 3 - Long Stairs	32.02
+Level/Manor/Modules/Module - Manor - DE - 3 - Outside Deathpit	3.81
+Level/Manor/Modules/Module - Manor - P - 1 - Dirt Hall	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Wardrobes	0.00
+Level/Manor/Modules/Module - Manor - N - 3 - The Pit	0.00
+Level/Manor/Modules/Module - Manor - N - 2 - Outside Graves	0.18
+Level/Manor/Modules/Module - Manor - N - 2 - Dining Hall	0.00
+Level/Manor/Modules/Module - Manor - N - 2 - Gallery Hall	4.00
+Level/Manor/Modules/Module - Manor - E - 2 - Outside Courtyard	0.90
+Level/Manor/Modules/Module - Manor - N - 2 - Relaxation Room	4.00
+Level/Manor/Modules/Module - Manor - N - 2 - The Loft	4.00
+Level/Manor/Modules/Module - Manor - P - 3 - Nook Pits	0.00
+Level/Manor/Modules/Module - Manor - N - 2 - Outside Crosspaths	0.45
+Level/Manor/Modules/Module - Manor - N - 1 - Central Mine	0.23
+Level/Manor/Modules/Module - Manor - DE - 3 - Outside Earth Basement	4.00
+Level/Manor/Modules/Module - Manor - E - 2 - Attic	4.00
+Level/Manor/Modules/Module - Manor - E - 3 - Side Planks	4.00
+Level/Arctic/Modules/Module - Arctic - E - 3 - Catwalks	4.00
+Level/Arctic/Modules/Module - Arctic - DE - 2 - Lower Labs	7.77
+Level/Arctic/Modules/Module - Arctic - N - 1 - Vat Research	0.00
+Level/Arctic/Modules/Module - Arctic - P - 1 - Outside Ice Walls	0.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Cooling Center	4.00
+Level/Arctic/Modules/Module - Arctic - DE - 3 - Outside Overlook 3	0.00
+Level/Arctic/Modules/Module - Arctic - P - 1 - Corridor	0.00
+Level/Arctic/Modules/Module - Arctic - P - 3 - Catwalks Wide	0.00
+Level/Arctic/Modules/Module - Arctic - P - 1 - Outside Ice Walls 2	0.00
+Level/Arctic/Modules/Module - Arctic - P - 3 - Maintenance	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 2 - Container in the basement	8.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Kitchen, bathroom and small rec room	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Labs	0.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Sector S	8.00
+Level/Arctic/Modules/Module - Arctic - N - 2 - Center Specimen	4.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Botanical Sector	4.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Storage Sideroom 2	4.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Storage Sideroom	4.00
+Level/Arctic/Modules/Module - Arctic - E - 2 - Runway Lights	4.00
+Level/Arctic/Modules/Module - Arctic - N - 3 - Vents	12.00
+Level/Arctic/Modules/Module - Arctic - N - 2 - Storage Room	4.00
+Level/Arctic/Modules/Module - Arctic - N - 2 - Storage Room 2	4.00
+Level/Arctic/Modules/Module - Arctic - N - 2 - Triple Portapotty	4.00
+Level/Arctic/Modules/Module - Arctic - N - 2 - Snow Dump	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Slush Cargo	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 3 - Outside Overlook 2	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Vat Research 2	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Two rooms and a corridor	0.00
+Level/Arctic/Modules/Module - Arctic - E - 3 - Pools	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Cafeteria	0.00
+Level/Arctic/Modules/Module - Arctic - E - 1 - Outside Snowy Passage	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 3 - Outside Loading Dock 2	1.75
+Level/Manor/Modules/Module - Manor - E - 3 - Bathwater Gulch	0.05
+Level/Manor/Modules/Module - Manor - N - 1 - Octagon Tree	0.00
+Level/Manor/Modules/Module - Manor - E - 3 - Boiler Extract	0.00
+Level/Manor/Modules/Module - Manor - P - 3 - Split Mine	0.27
+Level/Manor/Modules/Module - Manor - N - 2 - Book Basement	4.00
+Level/Manor/Modules/Module - Manor - E - 3 - The Pit	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Diagonal Hallway	0.00
+Level/Manor/Modules/Module - Manor - DE - 3 - Basement Deep	16.00
+Level/Manor/Modules/Module - Manor - DE - 2 - Basement	4.58
+Level/Arctic/Modules/Module - Arctic - P - 1 - The C	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Lounge	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 1 - Small Office	0.00
+Level/Desert/Modules/Module - Desert - M - 1 - Shacks	0.10
+Level/Desert/Modules/Module - Desert - DE - 1 - Cave End Short	0.00
+Level/Desert/Modules/Module - Desert - P - 1 - Food Stalls Passage	0.00
+Level/Desert/Modules/Module - Desert - E - 1 - Cacti Trouble	0.00
+Level/Desert/Modules/Module - Desert - P - 1 - Zigzag Cave	0.00
+Level/Desert/Modules/Module - Desert - DE - 1 - Picnic spot	0.00
+Level/Arctic/Modules/Module - Arctic - E - 3 - Coolant Leak	0.00
+Level/Arctic/Modules/Module - Arctic - P - 2 - Container Yard	0.05
+Level/Arctic/Modules/Module - Arctic - P - 3 - Maintenance 2	0.00
+Level/Arctic/Modules/Module - Arctic - E - 3 - Outside Ledge	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Warehouse	0.00
+Level/Arctic/Modules/Module - Arctic - P - 3 - Catwalks	0.00
+Level/Arctic/Modules/Module - Arctic - E - 2 - Cooling Hall	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 3 - Stairway & Deathpit	12.00
+Level/Manor/Modules/Module - Manor - M - 2 - Whale World	3.21
+Level/Manor/Modules/Module - Manor - P - 3 - Pit Passage	0.00
+Level/Manor/Modules/Module - Manor - P - 1 - Ground Floor Attic	0.00
+Level/Manor/Modules/Module - Manor - DE - 1 - Sauna	0.00
+Level/Manor/Modules/Module - Manor - E - 1 - Hallway	0.00
+Level/Museum/Modules/Module - Museum - E - 2 - Stair Extract 3	4.00
+Level/Museum/Modules/Module - Museum - N - 1 - Roundabout Tunnels	0.00
+Level/Museum/Modules/Module - Museum - E - 1 - Small	0.00
+Level/Museum/Modules/Module - Museum - P - 1 - Cleaning Closet	0.00
+Level/Museum/Modules/Module - Museum - N - 2 - Balconies	8.00
+Level/Museum/Modules/Module - Museum - P - 1 - Passage Outpost	0.00
+Level/Museum/Modules/Module - Museum - N - 2 - Basement Gallery	8.02
+Level/Museum/Modules/Module - Museum - N - 1 - Roundabout	0.00
+Level/Museum/Modules/Module - Museum - DE - 2 - Overgrown campsite	0.00
+Level/Museum/Modules/Module - Museum - N - 2 - Vent to the drop	0.00
+Level/Museum/Modules/Module - Museum - N - 2 - Smaller rooms and stairs wip	8.00
+Level/Museum/Modules/Module - Museum - DE - 2 - Upper Level	8.00
+Level/Manor/Modules/Module - Manor - P - 1 - Nook	0.00
+Level/Manor/Modules/Module - Manor - P - 2 - Outside Alley 2	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Sauna shower	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Congregation Room	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Cross Corridors	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Big kitchen	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Octagon Library	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Hallway Siderooms	0.00
+Level/Manor/Modules/Module - Manor - E - 1 - Big Sauna	0.00
+Level/Manor/Modules/Module - Manor - DE - 2 - Outside Gazebo	0.00
+Level/Arctic/Modules/Module - Arctic - DE - 1 - Bathroom Stalls	0.00
+Level/Arctic/Modules/Module - Arctic - P - 1 - Corridor 2	0.00
+Level/Arctic/Modules/Module - Arctic - N - 1 - Cross Corridors	0.00
+Level/Wizard/Modules/Module - Wizard - DE - 1 - Barrel closet	0.00
+Level/Wizard/Modules/Module - Wizard - P - 1 - Dorms Small 2	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Cubicles	0.00
+Level/Wizard/Modules/Module - Wizard - P - 2 - Outside Diagonal	0.90
+Level/Wizard/Modules/Module - Wizard - N - 1 - Catwalks	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Classroom	0.00
+Level/Wizard/Modules/Module - Wizard - E - 1 - Broom Closet	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Cell	0.00
+Level/Wizard/Modules/Module - Wizard - DE - 1 - Botanical	0.00
+Level/Manor/Modules/Module - Manor - E - 1 - Writer's Room	0.00
+Level/Manor/Modules/Module - Manor - DE - 1 - Small Bedroom	0.00
+Level/Manor/Modules/Module - Manor - P - 1 - Two Ways	3.98
+Level/Manor/Modules/Module - Manor - DE - 1 - Boilers	0.00
+Level/Desert/Modules/Module - Desert - DE - 1 - Small Bathroom	0.00
+Level/Desert/Modules/Module - Desert - N - 3 - Tall Mine Shaft	9.75
+Level/Desert/Modules/Module - Desert - N - 1 - Small Pool Courtyard	0.81
+Level/Desert/Modules/Module - Desert - E - 2 - Staff Room Extract	4.00
+Level/Desert/Modules/Module - Desert - P - 1 - Double Rooms	0.00
+Level/Desert/Modules/Module - Desert - N - 1 - Pool Party	1.43
+Level/Desert/Modules/Module - Desert - N - 1 - Stone Arch	0.00
+Level/Desert/Modules/Module - Desert - P - 2 - Rock Slide Shack	0.05
+Level/Desert/Modules/Module - Desert - N - 2 - Stage Performance	1.05
+Level/Desert/Modules/Module - Desert - E - 1 - Sand Extract	0.00
+Level/Desert/Modules/Module - Desert - N - 2 - Crawl Hole Corners	0.00
+Level/Desert/Modules/Module - Desert - DE - 2 - Staff Closet	0.00
+Level/Manor/Modules/Module - Manor - P - 2 - Librarians Gulch	4.00
+Level/Manor/Modules/Module - Manor - P - 2 - Outside Alley	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Rooms1	0.00
+Level/Manor/Modules/Module - Manor - E - 1 - Library Hall	0.00
+Level/Manor/Modules/Module - Manor - DE - 2 - Attic	4.00
+Level/Desert/Modules/Module - Desert - N - 3 - Liminal hotel	15.50
+Level/Desert/Modules/Module - Desert - DE - 3 - Shaft Hideout	12.05
+Level/Desert/Modules/Module - Desert - N - 3 - Mine Crossroads	0.05
+Level/Desert/Modules/Module - Desert - E - 2 - Arrows	0.00
+Level/Desert/Modules/Module - Desert - P - 3 - Staffroom Pit	0.10
+Level/Desert/Modules/Module - Desert - E - 3 - Liminal Pool	5.60
+Level/Desert/Modules/Module - Desert - P - 1 - Cave Tunnel	0.00
+Level/Desert/Modules/Module - Desert - N - 3 - Room Around The Rosie	4.20
+Level/Desert/Modules/Module - Desert - N - 3 - Nightmare Shack	16.05
+Level/Desert/Modules/Module - Desert - N - 2 - Small Town	1.04
+Level/Desert/Modules/Module - Desert - N - 2 - Lone Broken Shack	0.38
+Level/Desert/Modules/Module - Desert - DE - 3 - Climbing Caver	4.16
+Level/Desert/Modules/Module - Desert - DE - 1 - Well	0.10
+Level/Arctic/Modules/Module - Arctic - P - 2 - Frozen Medbay	0.00
+Level/Arctic/Modules/Module - Arctic - E - 2 - Outside Tunnel	1.40
+Level/Arctic/Modules/Module - Arctic - DE - 3 - Outside Overlook	0.00
+Level/Desert/Modules/Module - Desert - DE - 2 - Hotel Tunnel	0.00
+Level/Desert/Modules/Module - Desert - E - 3 - Helpful Brothers	2.02
+Level/Desert/Modules/Module - Desert - P - 3 - Shack Pit	0.25
+Level/Desert/Modules/Module - Desert - P - 3 - Collapsed Hotel Room	4.21
+Level/Desert/Modules/Module - Desert - N - 2 - Food Court	4.00
+Level/Desert/Modules/Module - Desert - E - 3 - Ruination of room 123	8.12
+Level/Desert/Modules/Module - Desert - DE - 2 - Big crystal	0.00
+Level/Desert/Modules/Module - Desert - E - 2 - Fallen Horse	0.00
+Level/Museum/Modules/Module - Museum - M - 3 - Red Light Green Light	0.00
+Level/Museum/Modules/Module - Museum - E - 2 - Stair Extract 2	4.00
+Level/Museum/Modules/Module - Museum - P - 3 - Heli crash	0.50
+Level/Museum/Modules/Module - Museum - DE - 3 - The Maw	8.00
+Level/Museum/Modules/Module - Museum - N - 3 - Tall Cafe	0.00
+Level/Museum/Modules/Module - Museum - N - 3 - Corner Pits	0.00
+Level/Museum/Modules/Module - Museum - N - 3 - High Climb	5.95
+Level/Museum/Modules/Module - Museum - E - 3 - Perilous Staircase	16.05
+Level/Museum/Modules/Module - Museum - N - 3 - Pillars	0.02
+Level/Museum/Modules/Module - Museum - DE - 3 - Collapsed Garage	8.00
+Level/Museum/Modules/Module - Museum - E - 3 - Collapsed	4.10
+Level/Desert/Modules/Module - Desert - N - 1 - Crystal Miners	0.00
+Level/Desert/Modules/Module - Desert - N - 1 - Surprise Hotel Room	0.00
+Level/Desert/Modules/Module - Desert - N - 1 - Rocky Hall	0.55
+Level/Desert/Modules/Module - Desert - N - 1 - Circle	0.05
+Level/Desert/Modules/Module - Desert - DE - 3 - Cowboy Skyscraper	16.00
+Level/Desert/Modules/Module - Desert - N - 1 - Mine Shack Maze	0.00
+Level/Desert/Modules/Module - Desert - DE - 3 - Deathpit shafts	5.05
+Level/Desert/Modules/Module - Desert - N - 1 - Minecart Underground	4.00
+Level/Desert/Modules/Module - Desert - N - 1 - Cowboy Hotel	0.00
+Level/Desert/Modules/Module - Desert - N - 1 - Rocky Tunnel	0.00
+Level/Desert/Modules/Module - Desert - DE - 2 - Shaft	4.05
+Level/Museum/Modules/Module - Museum - P - 1 - Split corridor	0.00
+Level/Museum/Modules/Module - Museum - N - 1 - Cafe	0.00
+Level/Museum/Modules/Module - Museum - DE - 1 - Maintenance Room	0.00
+Level/Museum/Modules/Module - Museum - N - 1 - Mysterious Wall Hole	0.00
+Level/Museum/Modules/Module - Museum - N - 1 - Double Column	0.00
+Level/Museum/Modules/Module - Museum - E - 1 - Windows	0.00
+Level/Museum/Modules/Module - Museum - DE - 1 - Bar and Storage	0.00
+Level/Manor/Modules/Module - Manor - DE - 1 - Small Kitchen	0.00
+Level/Manor/Modules/Module - Manor - N - 1 - Master Bedroom	0.00
+Level/Museum/Modules/Module - Museum - E - 2 - Down	4.02
+Level/Museum/Modules/Module - Museum - N - 1 - Spacious campsite	0.20
+Level/Museum/Modules/Module - Museum - DE - 1 - Center Wall	0.00
+Level/Museum/Modules/Module - Museum - P - 2 - Checkpoint	4.00
+Level/Museum/Modules/Module - Museum - N - 1 - Cylinder Chamber	0.00
+Level/Museum/Modules/Module - Museum - N - 3 - Pits on all sides	4.00
+Level/Museum/Modules/Module - Museum - N - 1 - Water Restaurant	3.38
+Level/Arctic/Modules/Module - Arctic - M - 1 - Cargo Central	0.35
+Level/Arctic/Modules/Module - Arctic - P - 2 - Infirmary basement	8.00
+Level/Arctic/Modules/Module - Arctic - P - 2 - Stair Corridor	8.00
+Level/Arctic/Modules/Module - Arctic - E - 2 - Outside Cargo	4.00
+Level/Arctic/Modules/Module - Arctic - DE - 1 - Single Bedroom	0.00
+Level/Wizard/Modules/Module - Wizard - E - 2 - Class Stair	4.00
+Level/Wizard/Modules/Module - Wizard - N - 2 - Outside Courtyard 1	0.90
+Level/Wizard/Modules/Module - Wizard - N - 2 - Alchemical Study	0.03
+Level/Wizard/Modules/Module - Wizard - DE - 3 - Dorm hole	0.00
+Level/Wizard/Modules/Module - Wizard - P - 2 - Outside Alley	0.90
+Level/Wizard/Modules/Module - Wizard - N - 2 - Big Cauldron	2.25
+Level/Wizard/Modules/Module - Wizard - N - 2 - Botanical Study	4.00
+Level/Wizard/Modules/Module - Wizard - N - 3 - Pits	0.00
+Level/Wizard/Modules/Module - Wizard - P - 3 - Deathpit Corridor 2	0.00
+Level/Wizard/Modules/Module - Wizard - N - 3 - Long Pit	4.00
+Level/Wizard/Modules/Module - Wizard - E - 1 - Corridor	0.00
+Level/Wizard/Modules/Module - Wizard - DE - 2 - Crate Room	0.00
+Level/Wizard/Modules/Module - Wizard - N - 2 - Lobby	4.00
+Level/Wizard/Modules/Module - Wizard - N - 3 - Broken Barricade	8.00
+Level/Wizard/Modules/Module - Wizard - E - 3 - Lava Pits	4.00
+Level/Manor/Modules/Module - Manor - E - 2 - Basement Extract	4.00
+Level/Desert/Modules/Module - Desert - M - 2 - Ghost Town	4.15
+Level/Desert/Modules/Module - Desert - P - 2 - Plank ramp small shack and mine	4.30
+Level/Desert/Modules/Module - Desert - E - 3 - Bridge Hole	4.05
+Level/Desert/Modules/Module - Desert - E - 3 - Minecart Madness	4.05
+Level/Manor/Modules/Module - Manor - P - 2 - Stair Passage	4.00
+Level/Desert/Modules/Module - Desert - P - 2 - Hotel room with roof slide into pool	4.05
+Level/Desert/Modules/Module - Desert - E - 3 - Free Falling	12.05
+Level/Museum/Modules/Module - Museum - E - 3 - Death Pit	4.00
+Level/Museum/Modules/Module - Museum - DE - 3 - Car through the wall	8.00
+Level/Museum/Modules/Module - Museum - P - 3 - Elevator To Sub Floor	8.03
+Level/Museum/Modules/Module - Museum - DE - 3 - Death Pit	8.00
+Level/Museum/Modules/Module - Museum - E - 3 - Wide Hole	0.00
+Level/Museum/Modules/Module - Museum - P - 2 - Basement Storage	4.05
+Level/Museum/Modules/Module - Museum - N - 2 - Central cutout column	8.00
+Level/Museum/Modules/Module - Museum - P - 3 - Side Abyss	0.00
+Level/Museum/Modules/Module - Museum - DE - 2 - Big Art Storage	0.00
+Level/Wizard/Modules/Module - Wizard - P - 2 - Stairs hangout hall	8.00
+Level/Wizard/Modules/Module - Wizard - N - 3 - Pits 1	4.00
+Level/Wizard/Modules/Module - Wizard - N - 3 - Cauldron Storage	0.00
+Level/Wizard/Modules/Module - Wizard - DE - 3 - Stairs into hell	5.40
+Level/Wizard/Modules/Module - Wizard - P - 3 - Deathpit Corridor	0.00
+Level/Wizard/Modules/Module - Wizard - N - 2 - Upstairs Classroom	8.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Recreational	0.00
+Level/Wizard/Modules/Module - Wizard - E - 3 - Down Sludge	4.05
+Level/Wizard/Modules/Module - Wizard - E - 3 - Sludge Pits	4.00
+Level/Museum/Modules/Module - Museum - P - 3 - Bridge	0.00
+Level/Museum/Modules/Module - Museum - N - 2 - Outside	0.30
+Level/Museum/Modules/Module - Museum - N - 1 - Curved Walkways	0.00
+Level/Museum/Modules/Module - Museum - N - 1 - Split Column Display	0.00
+Level/Desert/Modules/Module - Desert - P - 1 - Rocky Passage	0.00
+Level/Museum/Modules/Module - Museum - E - 1 - Rounded	0.00
+Level/Museum/Modules/Module - Museum - P - 1 - Curved Corridor	0.00
+Level/Museum/Modules/Module - Museum - DE - 1 - Storage Camp	0.00
+Level/Museum/Modules/Module - Museum - DE - 1 - Small Gallery	0.00
+Level/Wizard/Modules/Module - Wizard - DE - 1 - Hat Storage Break Room	0.00
+Level/Wizard/Modules/Module - Wizard - P - 1 - Dungeon passage	0.00
+Level/Wizard/Modules/Module - Wizard - P - 1 - Dorms Small	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Storage	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Botanical	0.00
+Level/Manor/Modules/Module - Manor - P - 1 - Tight Corridor	0.00
+Level/Manor/Modules/Module - Manor - DE - 1 - Wardrobe	0.00
+Level/Wizard/Modules/Module - Wizard - E - 3 - Lava Pits 2	0.00
+Level/Wizard/Modules/Module - Wizard - N - 1 - Lecture Hall	0.00
+Level/Wizard/Modules/Module - Wizard - P - 2 - Outside 3 bushes	0.90
+Level/Wizard/Modules/Module - Wizard - N - 1 - Pillars	4.00
+Level/Wizard/Modules/Module - Wizard - DE - 2 - Great Library	4.00
