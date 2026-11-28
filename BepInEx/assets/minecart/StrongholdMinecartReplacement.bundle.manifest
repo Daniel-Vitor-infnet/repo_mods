@@ -1,0 +1,122 @@
+ManifestFileVersion: 0
+CRC: 3578615386
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d5a73c99d367c3fd23e16c73406b62b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 86bb9adb7554d9506104b5cae818a7e0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 8d5a73c99d367c3fd23e16c73406b62b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dc612d23e30bc425c249e877f0d02db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2fc01ef347506803ccaebc47e4223e86, type: 3}
+- Class: 114
+  Script: {fileID: 849654536, guid: 7033f03d09d1bd0032d912463ac99743, type: 3}
+- Class: 114
+  Script: {fileID: -1283557461, guid: 7033f03d09d1bd0032d912463ac99743, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: df46af9b5382a99d6c879bd453f679c6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 620b3b20cadedabe98085e4b4cc4655e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aaea9639410203bd1cce2bb7f59ba556, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6faa03549a5d36df92fbf8280daf61c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72bb657e63785f44f51afd88d9713a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2c547cc50e0cd8f3c26c9328dc862c93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3d0893f666540582cc8e6192b9b0efaa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8dfc4153a34199bc897aed903c2bf08d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b92d0a529fd83f8597297eac8c68a10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 02942ab980045f4bc14fcfe6eb84b28f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6f9a9af56d04043a885a83f1bc1680e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c20b921f0f6250c6ed1fdea2498755d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff1df5370f7af74f11d71ad866fd0a19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c30496d6ae6d6f907456e10a94e01ec6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e94dcf3314020481f880b97f02fc505, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8fc605d86e253c130d95b9eb74debf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 328afba7744a086ddaa619a79c16685d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627a013663f820c93f7430687080fd1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb8c5cd85de75894096f8ffb1f03f295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 199ca62f695858a5c8ce6b1e261738da, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f0727eaa6b245c79a70270919f6fe72c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: PhysGrabObjectGrabArea/GrabArea
+- AssemblyName: Assembly-CSharp
+  ClassName: PrefabRef
+- AssemblyName: Assembly-CSharp
+  ClassName: Sound
+- AssemblyName: Unity.Localization
+  ClassName: UnityEngine.Localization.LocalizedString
+- AssemblyName: Unity.Localization
+  ClassName: UnityEngine.Localization.Tables.TableEntryReference
+- AssemblyName: Unity.Localization
+  ClassName: UnityEngine.Localization.Tables.TableReference
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/Prefabs/StrongholdMinecartReplacement.prefab
+Dependencies: []
